@@ -1,0 +1,21 @@
+{
+  "vendors": [
+    {
+      "vendorId": "chokotto",
+      "officialName": "株式会社良栄",
+      "displayName": "ちょこっと不動産",
+      "aliases": [],
+      "listingPageUrls": ["https://chokotto-fudousan.jp/"],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "hasDepositAccount": false,
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
+    }
+  ]
+}
