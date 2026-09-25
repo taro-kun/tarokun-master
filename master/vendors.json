@@ -4,18 +4,24 @@
       "vendorId": "chokotto",
       "officialName": "株式会社良栄",
       "displayName": "ちょこっと不動産",
-      "aliases": [],
-      "listingPageUrls": ["https://chokotto-fudousan.jp/"],
+      "aliases": [
+        "ちょこっと"
+      ],
+      "listingPageUrls": [
+        "https://chokotto-fudousan.jp/investment/fund_list.html"
+      ],
       "vendorType": "real_estate_crowdfunding",
-      "depositTiming": "pre",
-      "hasDepositAccount": false,
-      "withdrawFeeType": "free",
-      "withdrawFeeSameBank": null,
-      "withdrawFeeOtherBank": null,
+      "depositTiming": "post",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "100円",
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": "https://taroblog.net/23091701-chokotto-fudousan-detailed-description/",
+      "kana": "ちょこっとふどうさん",
+      "bankName": "GMOあおぞらネット銀行"
     }
   ]
 }
