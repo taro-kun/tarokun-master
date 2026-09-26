@@ -1,4 +1,20 @@
 {
   "vendorId": "tson",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "tsonc4232932729b9df9",
+      "projectName": "SMART FUND 123号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-05-10T12:00:00+09:00",
+      "recruitmentEndAt": "2026-05-13T12:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-05-20",
+      "operationEndDate": "2027-05-19",
+      "plannedRedemptionDate": "2027-06-19",
+      "yieldRate": 6.2,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 77000000
+    }
+  ]
 }
