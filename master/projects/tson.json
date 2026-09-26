@@ -15,6 +15,21 @@
       "operationPeriodValue": 12,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 66000000
+    },
+    {
+      "projectId": "tson755ad1049594beed",
+      "projectName": "SONAE 57号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2025-05-10T12:00:00+09:00",
+      "recruitmentEndAt": "2025-05-13T12:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2025-05-20",
+      "operationEndDate": "2026-05-19",
+      "plannedRedemptionDate": "2026-06-19",
+      "yieldRate": 5,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 12000000
     }
   ]
 }
