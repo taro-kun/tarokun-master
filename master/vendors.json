@@ -23,27 +23,6 @@
       "blogArticleUrl": "https://taroblog.net/23091701-chokotto-fudousan-detailed-description/",
       "kana": "ちょこっとふどうさん",
       "bankName": "GMOあおぞらネット銀行"
-    },
-    {
-      "vendorId": "tson",
-      "officialName": "TSON FUNDING",
-      "kana": "てぃーそんふぁんでぃんぐ",
-      "displayName": "TSON",
-      "aliases": [],
-      "listingPageUrls": [
-        "https://tson-funding.jp/projects"
-      ],
-      "vendorType": "real_estate_crowdfunding",
-      "depositTiming": "post",
-      "bankName": "GMOあおぞらネット銀行",
-      "hasDepositAccount": "no",
-      "withdrawFeeType": "【匿名組合型】無料　【任意組合型】GMO銀行：550円を出資者で均等割、他行：均等割+130円",
-      "withdrawFeeSameBank": null,
-      "withdrawFeeOtherBank": null,
-      "marketCategory": "unlisted",
-      "riskLevel": "middle",
-      "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/22020801-tson-funding-detailed-description/"
     }
   ]
 }
