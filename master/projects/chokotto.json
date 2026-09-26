@@ -15,21 +15,6 @@
       "operationPeriodValue": 6,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 10000000
-    },
-    {
-      "projectId": "chokottoe79c294e29cc8ed7",
-      "projectName": "ダミーファンド",
-      "applicationMethod": "first_come",
-      "recruitmentStartAt": "2026-09-12T12:00:00+09:00",
-      "recruitmentEndAt": "2027-08-31T12:00:00+09:00",
-      "lotteryResultAt": null,
-      "operationStartDate": "2026-09-10",
-      "operationEndDate": "2027-09-09",
-      "plannedRedemptionDate": "2027-10-01",
-      "yieldRate": 5,
-      "operationPeriodValue": 6,
-      "operationPeriodUnit": "months",
-      "recruitmentAmount": 100000
     }
   ]
 }
