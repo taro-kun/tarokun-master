@@ -2,21 +2,6 @@
   "vendorId": "chokotto",
   "projects": [
     {
-      "projectId": "chokotto-0000000000000001",
-      "projectName": "ちょこっと不動産テストファンド1号",
-      "applicationMethod": "first_come",
-      "recruitmentStartAt": "2026-09-01T10:00:00+09:00",
-      "recruitmentEndAt": "2026-09-10T23:59:59+09:00",
-      "lotteryResultAt": null,
-      "operationStartDate": "2026-09-15",
-      "operationEndDate": "2027-03-14",
-      "plannedRedemptionDate": "2027-03-31",
-      "yieldRate": 5,
-      "operationPeriodValue": 6,
-      "operationPeriodUnit": "months",
-      "recruitmentAmount": 10000000
-    },
-    {
       "projectId": "chokotto82af0edf647acabf",
       "projectName": "ちょこっと不動産44号　八王子市上野町Ｂ",
       "applicationMethod": "first_come",
