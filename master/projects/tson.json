@@ -4545,6 +4545,21 @@
       "operationPeriodValue": 365,
       "operationPeriodUnit": "days",
       "recruitmentAmount": 40500000
+    },
+    {
+      "projectId": "tson6b90d29bbf4d45b2",
+      "projectName": "SMART FUND151号（東京都江戸川区篠崎駅C棟【2期】）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-03T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-08T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-14",
+      "operationEndDate": "2027-08-13",
+      "plannedRedemptionDate": "2027-09-13",
+      "yieldRate": 6.1,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 93100000
     }
   ]
 }
