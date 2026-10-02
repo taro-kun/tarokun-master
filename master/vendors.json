@@ -68,6 +68,31 @@
       "riskLevel": "low",
       "redemptionOffsetDays": 7,
       "blogArticleUrl": "https://taroblog.net/19100601-jointo-alpha-safe-investment-and-merit-risk/"
+    },
+    {
+      "vendorId": "goldcrowd",
+      "officialName": "GOLD CROWD",
+      "kana": "ごーるどくらうど",
+      "displayName": "ゴールド",
+      "aliases": [
+        "GOLD",
+        "ゴールドクラウド",
+        "ゴルクラ"
+      ],
+      "listingPageUrls": [
+        "https://aggcrowd.jp/fund/list"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
