@@ -4560,6 +4560,21 @@
       "operationPeriodValue": 304,
       "operationPeriodUnit": "days",
       "recruitmentAmount": 93100000
+    },
+    {
+      "projectId": "tson65e17d5000bf76f1",
+      "projectName": "SMART FUND152号（愛知県半田市成岩駅【第2期】）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-09T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-14T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-19",
+      "operationEndDate": "2027-08-18",
+      "plannedRedemptionDate": "2027-09-17",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 93200000
     }
   ]
 }
