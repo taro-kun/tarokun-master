@@ -93,6 +93,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "alternabank",
+      "officialName": "オルタナバンク",
+      "kana": "おるたなばんく",
+      "displayName": "オルタナB",
+      "aliases": [
+        "ALTERNA BANK",
+        "オルタナ"
+      ],
+      "listingPageUrls": [
+        "https://www.alternabank.jp/fund/list"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "100円",
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": 7,
+      "blogArticleUrl": "https://taroblog.net/23090401-alterna-bank-detailed-description/"
     }
   ]
 }
