@@ -4574,7 +4574,9 @@
       "yieldRate": 6.0,
       "operationPeriodValue": 304,
       "operationPeriodUnit": "days",
-      "recruitmentAmount": 93200000
+      "recruitmentAmount": 93200000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
