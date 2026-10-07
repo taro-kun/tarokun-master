@@ -11430,6 +11430,23 @@
       "operationPeriodValue": 12,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 150000000
+    },
+    {
+      "projectId": "alternabankcbe7b9ae25b1011f",
+      "projectName": "【超短期】初回投資家応援・極ファンドID1184",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-14T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-21T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-30",
+      "operationEndDate": "2026-12-11",
+      "plannedRedemptionDate": null,
+      "yieldRate": 9.9,
+      "operationPeriodValue": 1,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 20150000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
