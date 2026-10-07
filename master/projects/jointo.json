@@ -14,7 +14,9 @@
       "yieldRate": 3.0,
       "operationPeriodValue": 12,
       "operationPeriodUnit": "months",
-      "recruitmentAmount": 306000000
+      "recruitmentAmount": 306000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     },
     {
       "projectId": "jointod1c547b3031ca861",
