@@ -14,7 +14,9 @@
       "yieldRate": 7.31,
       "operationPeriodValue": 12,
       "operationPeriodUnit": "months",
-      "recruitmentAmount": 220000000
+      "recruitmentAmount": 220000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     },
     {
       "projectId": "goldcrowde8b91a895b742819",
