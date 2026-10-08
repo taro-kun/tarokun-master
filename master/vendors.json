@@ -163,6 +163,27 @@
       "riskLevel": "low",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/23080501-prefun-detailed-description/"
+    },
+    {
+      "vendorId": "commosus",
+      "officialName": "COMMOSUS",
+      "kana": "こもさす",
+      "displayName": "コモサス",
+      "aliases": [],
+      "listingPageUrls": [
+        "https://commosus.jp/funds"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "あと入金も可能だが、入金済の応募から確定になりあとからだと間に合わないので、実質的には要事前入金",
+      "bankName": "三井住友銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "月1回無料、2回目以降は1回770円",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 0,
+      "blogArticleUrl": null
     }
   ]
 }
