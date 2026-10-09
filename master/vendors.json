@@ -184,6 +184,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 0,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "bankers",
+      "officialName": "バンカーズ",
+      "kana": "ばんかーず",
+      "displayName": "バンカーズ",
+      "aliases": [
+        "bankers"
+      ],
+      "listingPageUrls": [
+        "https://www.bankers.co.jp/fund/#!status=active&limit=20",
+        "https://www.bankers.co.jp/fund/#!status=closed&limit=20"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
