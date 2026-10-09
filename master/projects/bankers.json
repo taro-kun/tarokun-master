@@ -52904,6 +52904,40 @@
       "recruitmentAmount": 25000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersbec5928b9b9b91ba",
+      "projectName": "【円建て】【海外】短期6か月ファンド3-5号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-10T18:00:00+09:00",
+      "recruitmentEndAt": "2026-10-19T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-29",
+      "operationEndDate": "2027-04-30",
+      "plannedRedemptionDate": "2027-05-19",
+      "yieldRate": 8.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersd5949d66f8e2e995",
+      "projectName": "【円建て】【海外】短期3ヶ月ファンド第1-40号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-11T18:00:00+09:00",
+      "recruitmentEndAt": "2026-10-19T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-29",
+      "operationEndDate": "2027-01-29",
+      "plannedRedemptionDate": "2027-02-15",
+      "yieldRate": 7.5,
+      "operationPeriodValue": 3,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 200000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
