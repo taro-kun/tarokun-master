@@ -208,6 +208,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "crowdbank",
+      "officialName": "クラウドバンク",
+      "kana": "くらうどばんく",
+      "displayName": "クラバン",
+      "aliases": [
+        "Crowd Bank",
+        "crowdbank"
+      ],
+      "listingPageUrls": [
+        "https://crowdbank.jp/funds/search/?keyword=&region=&project=&status=&page=1"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
