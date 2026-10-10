@@ -277,6 +277,31 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 60,
       "blogArticleUrl": "https://taroblog.net/18111601-creal-suitable-for-investment/"
+    },
+    {
+      "vendorId": "yamawakeestate",
+      "officialName": "ヤマワケエステート",
+      "kana": "やまわけえすてーと",
+      "displayName": "ヤマワケS",
+      "aliases": [
+        "山分けエステート",
+        "ヤマS",
+        "ヤマワケ"
+      ],
+      "listingPageUrls": [
+        "https://yamawake-estate.jp/funds"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
