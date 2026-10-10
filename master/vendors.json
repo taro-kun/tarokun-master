@@ -242,9 +242,7 @@
         "ビットリアルティ",
         "ビットリ"
       ],
-      "listingPageUrls": [
-        "https://www.bit-realty.com/funds"
-      ],
+      "listingPageUrls": [],
       "vendorType": "social_lending",
       "depositTiming": "pre",
       "bankName": "三井住友銀行",
