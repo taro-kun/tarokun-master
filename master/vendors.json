@@ -254,6 +254,29 @@
       "riskLevel": "low",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "creal",
+      "officialName": "CREAL",
+      "kana": "くりある",
+      "displayName": "CREAL",
+      "aliases": [
+        "クリアル"
+      ],
+      "listingPageUrls": [
+        "https://creal.jp/funds"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "bankName": "ドコモSMTBネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "145円",
+      "marketCategory": "growth",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 60,
+      "blogArticleUrl": "https://taroblog.net/18111601-creal-suitable-for-investment/"
     }
   ]
 }
