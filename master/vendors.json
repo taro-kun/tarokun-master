@@ -232,6 +232,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "bitrealty",
+      "officialName": "bitREALTY",
+      "kana": "びっとりあるてぃ",
+      "displayName": "bitREALTY",
+      "aliases": [
+        "ビットリアルティ",
+        "ビットリ"
+      ],
+      "listingPageUrls": [
+        "https://www.bit-realty.com/funds"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "三井住友銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
