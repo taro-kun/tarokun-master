@@ -327,6 +327,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 75,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "lendex",
+      "officialName": "LENDEX",
+      "kana": "れんでっくす",
+      "displayName": "LENDEX",
+      "aliases": [
+        "レンデ",
+        "れんで"
+      ],
+      "listingPageUrls": [
+        "https://lendex.jp/main/fund_list/"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "月2回まで無料、3回目以降は330円/回",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
