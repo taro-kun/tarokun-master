@@ -4577,6 +4577,23 @@
       "recruitmentAmount": 93200000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson5a955658830112ad",
+      "projectName": "SMART FUND153号（岐阜県大垣市楽田町A棟【第2期】）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-14T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-19T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-23",
+      "operationEndDate": "2027-08-22",
+      "plannedRedemptionDate": "2027-09-22",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 88700000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
