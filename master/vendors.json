@@ -302,6 +302,31 @@
       "riskLevel": "high",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "kujira",
+      "officialName": "くじらファンディング",
+      "kana": "くじらふぁんでぃんぐ",
+      "displayName": "くじら",
+      "aliases": [
+        "クジラ",
+        "クジラファンディング",
+        "kujira funding"
+      ],
+      "listingPageUrls": [
+        "https://whalefund.jp/fund"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 75,
+      "blogArticleUrl": null
     }
   ]
 }
