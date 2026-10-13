@@ -351,6 +351,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "ownersbook",
+      "officialName": "オーナーズブック",
+      "kana": "おーなーずぶっく",
+      "displayName": "オナブ",
+      "aliases": [
+        "OwnersBook",
+        "オーナーズ"
+      ],
+      "listingPageUrls": [
+        "https://www.ownersbook.jp/project/index/all/1/1"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "三菱UFJ銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "投資家の銀行に関わらず一律330円（株主優待会員と プラチナ会員は無料）",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 21,
+      "blogArticleUrl": null
     }
   ]
 }
