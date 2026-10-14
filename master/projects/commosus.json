@@ -2924,6 +2924,23 @@
       "recruitmentAmount": 3000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "commosus06796c3f2751bdd5",
+      "projectName": "池袋プロジェクト（COMMOSUSファンド170号）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-15T12:30:00+09:00",
+      "recruitmentEndAt": "2026-10-19T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-30",
+      "operationEndDate": "2027-04-30",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 200000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
