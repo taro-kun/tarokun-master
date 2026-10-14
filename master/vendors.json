@@ -375,6 +375,31 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 21,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "pocketfunding",
+      "officialName": "Pocket Funding",
+      "kana": "ぽけっとふぁんでぃんぐ",
+      "displayName": "ポケファン",
+      "aliases": [
+        "Pocket",
+        "PF",
+        "ポケットファンディング"
+      ],
+      "listingPageUrls": [
+        "https://pocket-funding.jp/funds/view"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "みずほ銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "自分の口座がみずほ銀行那覇支店：無料、みずほ銀行他店：3万円未満220円、3万円以上440円、他行：3万円未満490円、3万円以上660円",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/20031101-pocket-funding-detailed-description/"
     }
   ]
 }
