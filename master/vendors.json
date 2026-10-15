@@ -449,6 +449,31 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/19021601-recommend-fantas-funding-11merit-6demerit/"
+    },
+    {
+      "vendorId": "minnanonenkin",
+      "officialName": "みんなの年金",
+      "kana": "みんなのねんきん",
+      "displayName": "みん年",
+      "aliases": [
+        "みんな年金",
+        "みんな",
+        "年金"
+      ],
+      "listingPageUrls": [
+        "https://minna-nenkin.com/fund"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
