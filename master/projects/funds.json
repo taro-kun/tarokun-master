@@ -10778,6 +10778,23 @@
       "recruitmentAmount": 400000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funds3c8b12846e759169",
+      "projectName": "Everestリースバック債権担保ファンド#5",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-16T19:00:00+09:00",
+      "recruitmentEndAt": "2026-10-28T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-10",
+      "operationEndDate": "2028-10-31",
+      "plannedRedemptionDate": "2028-11-08",
+      "yieldRate": 5.31,
+      "operationPeriodValue": 24,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 400000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
