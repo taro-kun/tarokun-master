@@ -123896,6 +123896,23 @@
       "recruitmentAmount": 39000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "crowdbank455965f25b22809a",
+      "projectName": "系統用蓄電池事業支援ファンド第80号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-15T16:45:00+09:00",
+      "recruitmentEndAt": "2026-10-20T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-30",
+      "operationEndDate": "2027-07-07",
+      "plannedRedemptionDate": "2027-08-06",
+      "yieldRate": 7.1,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 40000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
