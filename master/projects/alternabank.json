@@ -11464,6 +11464,23 @@
       "recruitmentAmount": 196540000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "alternabankfba7bf20be505b83",
+      "projectName": "【3ヶ月毎分配】インド貸金事業者中長期支援ファンドID1181",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-15T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-20T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-29",
+      "operationEndDate": "2027-09-15",
+      "plannedRedemptionDate": null,
+      "yieldRate": 7.5,
+      "operationPeriodValue": 10,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 21700000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
