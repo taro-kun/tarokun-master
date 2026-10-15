@@ -474,6 +474,33 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "rimawarikun",
+      "officialName": "利回りくん",
+      "kana": "りまわりくん",
+      "displayName": "利回りくん",
+      "aliases": [
+        "利くん",
+        "利回り",
+        "利回り君",
+        "SYLA",
+        "SYLA FUNDING"
+      ],
+      "listingPageUrls": [
+        "https://rimawarikun.com/customers/products"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
