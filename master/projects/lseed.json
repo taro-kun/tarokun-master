@@ -629,6 +629,23 @@
       "recruitmentAmount": 48680000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "lseed482e6ca868610428",
+      "projectName": "LSEED#38",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-19T18:00:00+09:00",
+      "recruitmentEndAt": "2026-10-29T12:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-01",
+      "operationEndDate": "2027-10-31",
+      "plannedRedemptionDate": "2027-11-01",
+      "yieldRate": 4.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 59130000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
