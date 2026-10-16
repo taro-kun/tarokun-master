@@ -3179,6 +3179,23 @@
       "operationPeriodUnit": "months",
       "recruitmentAmount": 22900000,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "minnanonenkin408fe043d91d9d5b",
+      "projectName": "特別記念みんなの年金1号ファンド",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2022-03-01T12:00:00+09:00",
+      "recruitmentEndAt": null,
+      "lotteryResultAt": null,
+      "firstComeStartAt": null,
+      "operationStartDate": "2022-04-01",
+      "operationEndDate": "2023-03-31",
+      "plannedRedemptionDate": null,
+      "yieldRate": 8,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 40000000,
+      "firstComeAmount": null
     }
   ]
 }
