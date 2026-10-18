@@ -656,6 +656,31 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/22091001-summary-of-mirafun/"
+    },
+    {
+      "vendorId": "oyadotcom",
+      "officialName": "大家どっとこむ",
+      "kana": "おおやどっとこむ",
+      "displayName": "大家",
+      "aliases": [
+        "大家ドットコム",
+        "大家.com",
+        "oya.com"
+      ],
+      "listingPageUrls": [
+        "https://fund.cf-ooya.com/fund/list"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "100円",
+      "marketCategory": "standard",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/21022001-oyadotcom-detailed-description/"
     }
   ]
 }
