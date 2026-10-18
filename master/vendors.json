@@ -630,6 +630,32 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/26072001-nine-fund-detailed-description/"
+    },
+    {
+      "vendorId": "mirafun",
+      "officialName": "みらファン",
+      "kana": "みらふぁん",
+      "displayName": "みらファン",
+      "aliases": [
+        "みら",
+        "みらふぁん",
+        "MIRA FUN",
+        "みらfunding"
+      ],
+      "listingPageUrls": [
+        "https://www.mirafun.jp/investment/fund_list.html"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "145円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/22091001-summary-of-mirafun/"
     }
   ]
 }
