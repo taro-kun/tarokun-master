@@ -704,6 +704,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/26041601-sols-detailed-description/"
+    },
+    {
+      "vendorId": "tasukifunds",
+      "officialName": "TASUKI FUNDS",
+      "kana": "たすきふぁんず",
+      "displayName": "TASUKI",
+      "aliases": [
+        "タスキ",
+        "タスキFUNDS",
+        "タスキfunds",
+        "タスキ FUNDS",
+        "タスキ funds",
+        "TASUKI funds"
+      ],
+      "listingPageUrls": [
+        "https://tasuki-funds.jp/funds"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
