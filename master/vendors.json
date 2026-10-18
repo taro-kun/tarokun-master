@@ -552,6 +552,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 21,
       "blogArticleUrl": "https://taroblog.net/21090901-ag-crowdfunding-rise-up/"
+    },
+    {
+      "vendorId": "koryo",
+      "officialName": "KORYO Funding",
+      "kana": "こうりょうふぁんでぃんぐ",
+      "displayName": "KORYO",
+      "aliases": [
+        "KORYO FUNDING",
+        "香陵",
+        "香陵funding",
+        "香陵FUNDING",
+        "香陵ファンディング",
+        "KORYOファンディング"
+      ],
+      "listingPageUrls": [
+        "https://koryo-funding.jp/projects"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/22042401-reason-invest-in-koryo-funding/"
     }
   ]
 }
