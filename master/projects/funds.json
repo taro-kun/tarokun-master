@@ -10795,6 +10795,40 @@
       "recruitmentAmount": 400000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsb2a4f303f5a45377",
+      "projectName": "seven x seven ファンド#1",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-21T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-02T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-13",
+      "operationEndDate": "2027-07-30",
+      "plannedRedemptionDate": "2027-08-06",
+      "yieldRate": 2.75,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsb89dc2df40d98358",
+      "projectName": "LIFULL Investment 不動産×金融 未来創生ファンド#1",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-21T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-09T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-12-28",
+      "plannedRedemptionDate": "2028-01-11",
+      "yieldRate": 3.2,
+      "operationPeriodValue": 13,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
