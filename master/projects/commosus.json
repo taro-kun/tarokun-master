@@ -2941,6 +2941,23 @@
       "recruitmentAmount": 200000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "commosusd853f5660bb9ba07",
+      "projectName": "浅草プロジェクト（COMMOSUSファンド171号）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-22T12:30:00+09:00",
+      "recruitmentEndAt": "2026-10-26T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-06",
+      "operationEndDate": "2027-08-31",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.0,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 220000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
