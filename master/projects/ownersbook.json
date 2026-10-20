@@ -7531,6 +7531,23 @@
       "recruitmentAmount": 3000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "ownersbook2a475d8aaf5e7540",
+      "projectName": "北区東十条レジデンス案件",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-21T18:00:00+09:00",
+      "recruitmentEndAt": "2026-10-28T09:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": null,
+      "operationEndDate": null,
+      "plannedRedemptionDate": "2028-05-20",
+      "yieldRate": 5.3,
+      "operationPeriodValue": 19,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
