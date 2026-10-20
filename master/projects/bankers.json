@@ -52955,6 +52955,23 @@
       "recruitmentAmount": 85000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersb7a263e5fb149f48",
+      "projectName": "【円建て】モンゴル個人・中小企業向けローンファンド2_11号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-21T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-10T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-24",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-14",
+      "yieldRate": 7.21,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 20000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
