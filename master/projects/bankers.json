@@ -52972,6 +52972,23 @@
       "recruitmentAmount": 20000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers6898fb2608895801",
+      "projectName": "【円建て】モンゴル交通開発銀行ファンド2_12号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-22T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-10T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-24",
+      "operationEndDate": "2027-08-31",
+      "plannedRedemptionDate": "2027-09-14",
+      "yieldRate": 6.21,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 20000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
