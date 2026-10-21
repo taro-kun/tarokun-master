@@ -11566,6 +11566,40 @@
       "recruitmentAmount": 79050000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "alternabanke52ce775065ace1f",
+      "projectName": "【元利金一括】ポーランド金融事業者短期支援ファンドID1193",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-21T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-25T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-04",
+      "operationEndDate": "2026-12-01",
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.0,
+      "operationPeriodValue": 1,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 73160000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "alternabanked7f3f51cfaa490a",
+      "projectName": "【毎月分配】中央アジア動産担保貸付支援ファンドID1186",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-21T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-25T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-04",
+      "operationEndDate": "2027-11-15",
+      "plannedRedemptionDate": null,
+      "yieldRate": 7.5,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 170500000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
