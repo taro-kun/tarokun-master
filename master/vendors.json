@@ -447,7 +447,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "unlisted",
       "riskLevel": "middle",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 7,
       "blogArticleUrl": "https://taroblog.net/19021601-recommend-fantas-funding-11merit-6demerit/"
     },
     {
