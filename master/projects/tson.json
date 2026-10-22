@@ -4611,6 +4611,23 @@
       "recruitmentAmount": 44600000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson237597ffe85144c4",
+      "projectName": "SMART FUND155号（愛知県名古屋市昭和区いりなか駅＜第1期＞）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-24T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-26T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-30",
+      "operationEndDate": "2027-06-29",
+      "plannedRedemptionDate": "2027-07-29",
+      "yieldRate": 5.8,
+      "operationPeriodValue": 243,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 103300000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
