@@ -646,6 +646,23 @@
       "recruitmentAmount": 13790000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tokatsudabba367810fba19",
+      "projectName": "投活プロジェクト40号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-27T19:30:00+09:00",
+      "recruitmentEndAt": "2026-10-30T10:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-10",
+      "operationEndDate": "2027-09-10",
+      "plannedRedemptionDate": "2027-09-24",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 305,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 7420000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
