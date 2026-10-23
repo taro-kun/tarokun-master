@@ -4879,6 +4879,23 @@
       "recruitmentAmount": 525000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcff49be8192c7768a6",
+      "projectName": "不動産担保ローンファンド#224（貸店舗@茨城県猿島郡）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-23T12:00:00+09:00",
+      "recruitmentEndAt": "2026-10-29T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-10",
+      "operationEndDate": "2027-11-09",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 148000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
