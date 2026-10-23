@@ -34969,6 +34969,23 @@
       "recruitmentAmount": 19510000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "lendexddfe41a909b5d372",
+      "projectName": "不動産担保付きローンファンド　1958号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-23T21:00:00+09:00",
+      "recruitmentEndAt": "2026-10-23T21:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-06",
+      "operationEndDate": "2027-11-05",
+      "plannedRedemptionDate": "2027-11-19",
+      "yieldRate": 10.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 14010000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
