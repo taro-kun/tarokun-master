@@ -867,6 +867,40 @@
       "recruitmentAmount": 3600000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "mirafunac5fbd9972322375",
+      "projectName": "みらファン第52号(愛知県名古屋市)",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-10-27T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-03T23:59:00+09:00",
+      "lotteryResultAt": "2026-11-04T00:00:00+09:00",
+      "operationStartDate": "2026-11-13",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": "2027-06-01",
+      "yieldRate": 5.2,
+      "operationPeriodValue": 7,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 133700000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "mirafunb1a64f3b37701add",
+      "projectName": "みらファン第34号(東京都大田区)",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-02-10T18:00:00+09:00",
+      "recruitmentEndAt": "2026-02-19T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-03-01",
+      "operationEndDate": "2026-10-31",
+      "plannedRedemptionDate": "2026-11-01",
+      "yieldRate": 5.8,
+      "operationPeriodValue": 8,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 176000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
