@@ -53006,6 +53006,23 @@
       "recruitmentAmount": 100000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers654f71eed9d8f3ab",
+      "projectName": "系統用蓄電池事業支援ファンド12-2号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-27T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-04T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-17",
+      "operationEndDate": "2027-10-29",
+      "plannedRedemptionDate": "2027-11-15",
+      "yieldRate": 11.1,
+      "operationPeriodValue": 11,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
