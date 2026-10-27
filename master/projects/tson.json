@@ -4645,6 +4645,23 @@
       "recruitmentAmount": 89000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tsonc4df770e99feb812",
+      "projectName": "SMART FUND157号（東京都世田谷区成城学園前駅、練馬区上石神井駅）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-30T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-02T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-09",
+      "operationEndDate": "2027-07-08",
+      "plannedRedemptionDate": "2027-08-06",
+      "yieldRate": 5.8,
+      "operationPeriodValue": 242,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 140900000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
