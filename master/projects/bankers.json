@@ -53023,6 +53023,23 @@
       "recruitmentAmount": 100000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers0f0ed370c47a29b4",
+      "projectName": "【円建て】ポーランド個人向け金融事業者ファンド2_14号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-28T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-10T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-24",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-14",
+      "yieldRate": 9.37,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 40000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
