@@ -11668,6 +11668,23 @@
       "recruitmentAmount": 32240000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "alternabank4221a82c8e3f62db",
+      "projectName": "【3ヶ月毎分配】秋の陣ファンド 秋晴れの章 ID1195",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-30T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-04T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-13",
+      "operationEndDate": "2027-11-19",
+      "plannedRedemptionDate": null,
+      "yieldRate": 8.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 81220000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
