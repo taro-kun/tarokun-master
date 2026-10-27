@@ -10829,6 +10829,57 @@
       "recruitmentAmount": 300000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funds8fb70399d845f4a3",
+      "projectName": "将来価値で選ぶ不動産投資「LENZ」1周年ファンド #4",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-28T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-09T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-07",
+      "yieldRate": 3.25,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 400000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsbdb27429b821a342",
+      "projectName": "マリモ レジデンスファンド#1",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-10-27T15:30:00+09:00",
+      "recruitmentEndAt": "2026-10-29T15:00:00+09:00",
+      "lotteryResultAt": "2026-10-29T00:00:00+09:00",
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-07",
+      "yieldRate": 3.2,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 200000000,
+      "firstComeStartAt": "2026-10-30T19:00:00+09:00",
+      "firstComeAmount": 10000000
+    },
+    {
+      "projectId": "funds56c89b6f5e1a103a",
+      "projectName": "クリアル Game Changer 2030 ファンド#1",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-28T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-09T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-07",
+      "yieldRate": 3.15,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
