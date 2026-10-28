@@ -4896,6 +4896,23 @@
       "recruitmentAmount": 148000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcf79dec30aad2ff7d4",
+      "projectName": "不動産担保ローンファンド#225（土地建物@世田谷区）_第2回",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-28T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-10T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2028-09-27",
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.0,
+      "operationPeriodValue": 22,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 328100000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
