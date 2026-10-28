@@ -510,6 +510,23 @@
       "recruitmentAmount": 20000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tasukifunds9b5426296a911872",
+      "projectName": "タスキ キャピタル重視型 第15号ファンド-Series1",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-10-28T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-12T12:00:00+09:00",
+      "lotteryResultAt": "2026-11-12T00:00:00+09:00",
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-09-30",
+      "plannedRedemptionDate": "2027-11-30",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 10,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 43000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
