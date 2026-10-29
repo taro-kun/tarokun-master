@@ -10880,6 +10880,23 @@
       "recruitmentAmount": 300000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundse5a3482ae5fd70ea",
+      "projectName": "Funds AMFCインクルージョンファンド#4",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-30T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-11T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-25",
+      "operationEndDate": "2028-02-29",
+      "plannedRedemptionDate": "2028-03-07",
+      "yieldRate": 4.62,
+      "operationPeriodValue": 15,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 550000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
