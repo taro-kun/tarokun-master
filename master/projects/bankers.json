@@ -53040,6 +53040,23 @@
       "recruitmentAmount": 150000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers9104bdfbbe7fd370",
+      "projectName": "【メキシコペソ建て】メキシコ女性起業家支援ファンド5_1号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-30T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-10T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-24",
+      "operationEndDate": "2027-08-31",
+      "plannedRedemptionDate": "2027-09-14",
+      "yieldRate": 9.55,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 20000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
