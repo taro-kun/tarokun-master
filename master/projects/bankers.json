@@ -53057,6 +53057,23 @@
       "recruitmentAmount": 20000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankerscee8d64d147f9fb1",
+      "projectName": "沖縄・金武町不動産担保融資ファンド1-2号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-10-31T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-09T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-10-29",
+      "plannedRedemptionDate": "2027-11-15",
+      "yieldRate": 5.25,
+      "operationPeriodValue": 11,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50250000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
