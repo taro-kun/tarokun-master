@@ -5763,6 +5763,23 @@
       "recruitmentAmount": 150000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "yamawakeestate10009ef75add8f31",
+      "projectName": "群馬・太田　系統用蓄電池用地　EXITファンド／リセール",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-10-31T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-04T23:59:00+09:00",
+      "lotteryResultAt": "2026-11-05T00:00:00+09:00",
+      "operationStartDate": "2026-11-13",
+      "operationEndDate": "2027-04-27",
+      "plannedRedemptionDate": "2027-05-31",
+      "yieldRate": 25.1,
+      "operationPeriodValue": 5,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 123430000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
