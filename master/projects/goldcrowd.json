@@ -602,6 +602,23 @@
       "operationPeriodValue": 6,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 16200000
+    },
+    {
+      "projectId": "goldcrowd5beffc59e6e4e0d6",
+      "projectName": "ゴールドエイジ津 高茶屋Phase3（４期）",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-13T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-19T12:00:00+09:00",
+      "lotteryResultAt": "2026-11-19T00:00:00+09:00",
+      "operationStartDate": "2026-12-01",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-21",
+      "yieldRate": 5.35,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 40000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
