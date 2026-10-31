@@ -4662,6 +4662,23 @@
       "recruitmentAmount": 140900000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson1ff7fbf056b1480f",
+      "projectName": "SMART FUND158号（愛知県半田市乙川Ⅱ【第2期】）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-03T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-05T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-10",
+      "operationEndDate": "2027-09-09",
+      "plannedRedemptionDate": "2027-10-08",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 65600000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
