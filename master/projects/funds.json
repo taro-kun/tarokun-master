@@ -10897,6 +10897,40 @@
       "recruitmentAmount": 550000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsf103bf5f405dc498",
+      "projectName": "ボルテックス都市型デザイナーズマンションファンド#2",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-04T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-16T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2028-08-31",
+      "plannedRedemptionDate": "2028-09-07",
+      "yieldRate": 3.8,
+      "operationPeriodValue": 21,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 500000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsc9b178c118fa3131",
+      "projectName": "アスコット・デザインバリューファンド#5",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-04T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-16T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-10-29",
+      "plannedRedemptionDate": "2027-11-08",
+      "yieldRate": 3.25,
+      "operationPeriodValue": 11,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 400000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
