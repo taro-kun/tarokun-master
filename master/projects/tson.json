@@ -4679,6 +4679,23 @@
       "recruitmentAmount": 65600000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson174fe46bd94a66b1",
+      "projectName": "SMART FUND159号（東京都江戸川区小岩駅、埼玉県草加市新田駅）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-06T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-09T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-13",
+      "operationEndDate": "2027-07-12",
+      "plannedRedemptionDate": "2027-08-12",
+      "yieldRate": 5.9,
+      "operationPeriodValue": 242,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 142800000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
