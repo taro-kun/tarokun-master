@@ -53091,6 +53091,57 @@
       "recruitmentAmount": 30000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers99aaed5db4ea02c5",
+      "projectName": "系統用蓄電池事業支援ファンド13-2号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-04T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-12T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-10-29",
+      "plannedRedemptionDate": "2027-11-15",
+      "yieldRate": 11.1,
+      "operationPeriodValue": 11,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers7e0c7a0a0e044c62",
+      "projectName": "【円建て】ポーランド個人向け金融事業者ファンド2_15号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-05T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-10T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-24",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-14",
+      "yieldRate": 9.37,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 30000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers09b6f57a72f05d7c",
+      "projectName": "マイカーローン事業支援ファンド第2-21号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-05T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-16T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-14",
+      "yieldRate": 5.2,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 22000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
