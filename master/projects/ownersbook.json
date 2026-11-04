@@ -7565,6 +7565,23 @@
       "recruitmentAmount": 450000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "ownersbooka42c3442360bc7a3",
+      "projectName": "足立区西新井レジデンス案件",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-05T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-11T09:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-13",
+      "operationEndDate": "2028-06-13",
+      "plannedRedemptionDate": "2028-06-20",
+      "yieldRate": 5.6,
+      "operationPeriodValue": 19,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
