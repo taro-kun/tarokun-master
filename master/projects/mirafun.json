@@ -901,6 +901,23 @@
       "recruitmentAmount": 176000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "mirafun9188eeeaebbdf672",
+      "projectName": "みらファン第53号(愛知県名古屋市)",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-07T09:00:00+09:00",
+      "recruitmentEndAt": "2026-11-17T23:59:00+09:00",
+      "lotteryResultAt": "2026-11-18T00:00:00+09:00",
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-03-12",
+      "plannedRedemptionDate": "2027-03-13",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 4,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 223200000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
