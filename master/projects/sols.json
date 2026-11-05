@@ -408,6 +408,23 @@
       "operationPeriodUnit": null,
       "recruitmentAmount": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "sols35599a5b39e04db9",
+      "projectName": "SOLS第24号案件：上場記念ファンド③",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-11T10:00:00+09:00",
+      "recruitmentEndAt": "2026-11-13T13:00:00+09:00",
+      "lotteryResultAt": "2026-11-13T00:00:00+09:00",
+      "operationStartDate": "2026-11-25",
+      "operationEndDate": "2027-10-31",
+      "plannedRedemptionDate": "2027-11-12",
+      "yieldRate": 5.2,
+      "operationPeriodValue": 11.2,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
