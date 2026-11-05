@@ -10931,6 +10931,23 @@
       "recruitmentAmount": 400000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsd2fa73322f1765c1",
+      "projectName": "ダイドーリミテッド グローバルブランド成長ファンド#2",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-06T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-17T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-09-30",
+      "plannedRedemptionDate": "2027-10-07",
+      "yieldRate": 3.8,
+      "operationPeriodValue": 10,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
