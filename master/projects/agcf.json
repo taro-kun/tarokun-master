@@ -4913,6 +4913,40 @@
       "recruitmentAmount": 328100000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcfb1300a10a055ff56",
+      "projectName": "アイフルファンド #65",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-09T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-24T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-08",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": null,
+      "yieldRate": 1.77,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "agcfc5ca82e810c52188",
+      "projectName": "不動産担保ローンファンド#227（区分マンション@墨田区両国）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-06T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-13T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-11-26",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 97000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
