@@ -5780,6 +5780,23 @@
       "recruitmentAmount": 123430000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "yamawakeestatea69a0c74804da953",
+      "projectName": "東京都葛飾区小菅　新築レジデンスファンド",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-06T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-11T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-25",
+      "operationEndDate": "2027-03-25",
+      "plannedRedemptionDate": "2027-04-30",
+      "yieldRate": 16.0,
+      "operationPeriodValue": 4,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 170000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
