@@ -67,7 +67,10 @@
       "marketCategory": "standard",
       "riskLevel": "low",
       "redemptionOffsetDays": 7,
-      "blogArticleUrl": "https://taroblog.net/19100601-jointo-alpha-safe-investment-and-merit-risk/"
+      "blogArticleUrl": "https://taroblog.net/19100601-jointo-alpha-safe-investment-and-merit-risk/",
+      "projectNameRemovals": [
+        "アルファアセットファンド"
+      ]
     },
     {
       "vendorId": "goldcrowd",
