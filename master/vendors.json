@@ -204,7 +204,24 @@
       "marketCategory": "prime",
       "riskLevel": "low",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/23080501-prefun-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/23080501-prefun-detailed-description/",
+      "projectNameRemovals": [
+        "ファンド",
+        "【新規会員特典】",
+        "【過去最高額】",
+        "＜応募出資額30万円限定・新規特典付＞",
+        "＜新規特典アマゾンギフト券1千円分＞",
+        "【応募出資額30万円限定！】",
+        "【新規限定：応募出資額30万円限定！】",
+        "【応募出資額30万円限定！】",
+        "【新規限定：応募出資額50万円限定！】",
+        "【応募出資額50万円限定！】",
+        "募集最高額！ 6/16～7/6新規本会員登録者のみで抽選",
+        "【5/23～6/15新規本会員登録者のみで抽選】",
+        "【応募出資額100万円限定！】",
+        "【3/22～新規本会員登録者のみで抽選】",
+        "【プレサンス名古屋駅前ヴェルロード】"
+      ]
     },
     {
       "vendorId": "commosus",
