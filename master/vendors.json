@@ -537,7 +537,32 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": 7,
-      "blogArticleUrl": "https://taroblog.net/19021601-recommend-fantas-funding-11merit-6demerit/"
+      "blogArticleUrl": "https://taroblog.net/19021601-recommend-fantas-funding-11merit-6demerit/",
+      "projectNameRemovals": [
+        "(※抽選方式)",
+        "FANTASファンド",
+        "FANTAS ",
+        "PJ 第",
+        "(※先着方式)",
+        "（抽選方式）",
+        "(※抽選方式,出資額上限30口)",
+        "(DARWIN fundingタイアップ",
+        "(※抽選方式,出資額上限10口)",
+        "(※先着方式,出資額上限30口)",
+        "(※先着方式,出資額上限10口)",
+        "（オンライン内覧会参加特典 優待プロジェクト）",
+        "(※先着方式,出資額上限20口)",
+        "（継続限定優待プロジェクト）",
+        "(※抽選方式,女性限定優待PJ)",
+        "(リノベーション) ",
+        "医療従事者住まい支援PJ ”次回優待出資権※付き”（FANTAS ",
+        "※出資額上限20口",
+        " (抽選方式,出資額上限１０口)",
+        "（中古不動産流通）",
+        "　※抽選方式",
+        " ※出資額上限１０口",
+        "（空き家再生）"
+      ]
     },
     {
       "vendorId": "minnanonenkin",
