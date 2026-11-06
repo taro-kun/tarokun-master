@@ -820,7 +820,12 @@
       "marketCategory": "tpm",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/26041601-sols-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/26041601-sols-detailed-description/",
+      "projectNameRemovals": [
+        "SOLS第",
+        "案件",
+        "ファンド"
+      ]
     },
     {
       "vendorId": "tasukifunds",
