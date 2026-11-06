@@ -46,7 +46,14 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/22020801-tson-funding-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/22020801-tson-funding-detailed-description/",
+      "projectNameRemovals": [
+        "FUND",
+        "「AI",
+        "180」",
+        "環境",
+        "スマートファンド"
+      ]
     },
     {
       "vendorId": "jointo",
