@@ -502,7 +502,14 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/20031101-pocket-funding-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/20031101-pocket-funding-detailed-description/",
+      "projectNameRemovals": [
+        "ファンド",
+        "【一部不動産担保付】",
+        "【不動産担保付】",
+        "ＰＦ",
+        "ローン"
+      ]
     },
     {
       "vendorId": "lseed",
