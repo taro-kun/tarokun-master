@@ -324,7 +324,11 @@
       "marketCategory": "unlisted",
       "riskLevel": "low",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "：",
+        "ローンファンド"
+      ]
     },
     {
       "vendorId": "creal",
