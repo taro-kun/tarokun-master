@@ -552,7 +552,10 @@
       "marketCategory": "prime",
       "riskLevel": "low",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/23033101-gala-funding-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/23033101-gala-funding-detailed-description/",
+      "projectNameRemovals": [
+        "ＧＡＬＡ ＦＵＮＤＩＮＧ "
+      ]
     },
     {
       "vendorId": "agcf",
