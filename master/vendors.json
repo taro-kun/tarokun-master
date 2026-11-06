@@ -250,7 +250,16 @@
       "marketCategory": "standard",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "系統用",
+        "事業",
+        "支援",
+        "ファンド",
+        "第",
+        "型",
+        "・ホールディングス【東証プライム市場上場】コラボレーション"
+      ]
     },
     {
       "vendorId": "bitrealty",
