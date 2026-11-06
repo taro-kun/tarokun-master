@@ -649,7 +649,22 @@
       "marketCategory": "standard",
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "DOTOWN ",
+        "グループホーム ",
+        "運用",
+        "ファンド",
+        "障がい者グループホーム「",
+        "」",
+        "パークホームズ",
+        "利回りくん",
+        "『日神デュオステージ桜上水』",
+        "『グローベル ザ・ガーデン新宿西落合』",
+        "保護犬・猫共生型グループホーム「",
+        "日中サービス支援型",
+        "犬猫共存型マンション "
+      ]
     },
     {
       "vendorId": "galafunding",
