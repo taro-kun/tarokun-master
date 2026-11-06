@@ -733,7 +733,11 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/26072001-nine-fund-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/26072001-nine-fund-detailed-description/",
+      "projectNameRemovals": [
+        "NINE FUND",
+        "【償還済み】"
+      ]
     },
     {
       "vendorId": "mirafun",
