@@ -254,7 +254,22 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "【円建て】",
+        "事業",
+        "者",
+        "ファンド",
+        "【定期元本償還】",
+        "【メキシコペソ建て】",
+        "支援",
+        "系統用",
+        "【米ドル建て】",
+        "【債権小口分散型】",
+        "第",
+        "【ユーロ建て】",
+        "【毎月分配型】"
+      ]
     },
     {
       "vendorId": "crowdbank",
