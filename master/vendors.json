@@ -704,7 +704,10 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/23032701-to-katsu-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/23032701-to-katsu-detailed-description/",
+      "projectNameRemovals": [
+        "投活プロジェクト"
+      ]
     },
     {
       "vendorId": "ninefund",
