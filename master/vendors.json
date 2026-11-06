@@ -92,7 +92,14 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "ゴールドエイジ",
+        "SDGs高圧系統用",
+        "【再投資可能】",
+        "高齢者住宅",
+        "ファンド "
+      ]
     },
     {
       "vendorId": "alternabank",
