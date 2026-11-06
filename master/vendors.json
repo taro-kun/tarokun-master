@@ -396,7 +396,12 @@
       "marketCategory": "unlisted",
       "riskLevel": "high",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "ファンド",
+        "系統用",
+        "用地"
+      ]
     },
     {
       "vendorId": "kujira",
