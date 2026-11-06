@@ -22,7 +22,10 @@
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/23091701-chokotto-fudousan-detailed-description/",
       "kana": "ちょこっとふどうさん",
-      "bankName": "GMOあおぞらネット銀行"
+      "bankName": "GMOあおぞらネット銀行",
+      "projectNameRemovals": [
+        "ちょこっと不動産"
+      ]
     },
     {
       "vendorId": "tson",
