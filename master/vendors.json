@@ -834,7 +834,10 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/22091001-summary-of-mirafun/"
+      "blogArticleUrl": "https://taroblog.net/22091001-summary-of-mirafun/",
+      "projectNameRemovals": [
+        "みらファン第"
+      ]
     },
     {
       "vendorId": "oyadotcom",
