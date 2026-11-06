@@ -202,7 +202,15 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": 0,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "プロジェクト",
+        "COMMOSUS",
+        "ファンド",
+        " FUND",
+        "系統用",
+        "事業"
+      ]
     },
     {
       "vendorId": "bankers",
