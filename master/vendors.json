@@ -116,7 +116,26 @@
       "marketCategory": "unlisted",
       "riskLevel": "high",
       "redemptionOffsetDays": 7,
-      "blogArticleUrl": "https://taroblog.net/23090401-alterna-bank-detailed-description/"
+      "blogArticleUrl": "https://taroblog.net/23090401-alterna-bank-detailed-description/",
+      "projectNameRemovals": [
+        "【3ヶ月毎分配】",
+        "ファンド",
+        "【超短期】初回投資家応援・",
+        "【超短期】投資家還元・",
+        "中長期",
+        "【元利金一括返済】",
+        "投資デビュー応援・",
+        "【元利金一括】",
+        "短期",
+        "【毎月分配】",
+        "貸付支援",
+        "支援",
+        "系統用",
+        "ローン",
+        "インカム",
+        "【6ヶ月毎分配】",
+        "成長"
+      ]
     },
     {
       "vendorId": "funds",
