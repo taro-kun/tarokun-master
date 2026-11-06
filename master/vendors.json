@@ -454,7 +454,12 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "不動産担保付き",
+        "ローン",
+        "ファンド　"
+      ]
     },
     {
       "vendorId": "ownersbook",
