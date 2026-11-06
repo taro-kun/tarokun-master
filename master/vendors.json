@@ -346,7 +346,10 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": 75,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "くじら"
+      ]
     },
     {
       "vendorId": "lendex",
