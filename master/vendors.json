@@ -853,7 +853,11 @@
       "marketCategory": "prime",
       "riskLevel": "low",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "タスキ キャピタル重視型 第",
+        "ファンド"
+      ]
     }
   ]
 }
