@@ -647,7 +647,12 @@
       "marketCategory": "standard",
       "riskLevel": "low",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": "https://taroblog.net/22042401-reason-invest-in-koryo-funding/"
+      "blogArticleUrl": "https://taroblog.net/22042401-reason-invest-in-koryo-funding/",
+      "projectNameRemovals": [
+        "【抽選】",
+        "KORYO Funding－MC　",
+        "【先着】"
+      ]
     },
     {
       "vendorId": "tokatsu",
