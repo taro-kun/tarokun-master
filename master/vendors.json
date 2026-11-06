@@ -553,7 +553,20 @@
       "marketCategory": "prime",
       "riskLevel": "middle",
       "redemptionOffsetDays": 21,
-      "blogArticleUrl": "https://taroblog.net/21090901-ag-crowdfunding-rise-up/"
+      "blogArticleUrl": "https://taroblog.net/21090901-ag-crowdfunding-rise-up/",
+      "projectNameRemovals": [
+        "不動産担保ローンファンド",
+        "@",
+        "区分マンション",
+        "土地建物",
+        "貸店舗",
+        "貸別荘",
+        "土地",
+        "一棟アパート",
+        "マンション",
+        "店舗付住宅",
+        "借地権付建物"
+      ]
     },
     {
       "vendorId": "koryo",
