@@ -53159,6 +53159,40 @@
       "recruitmentAmount": 27100000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers7bccf59f6fa4c9b7",
+      "projectName": "RERISE不動産事業支援ファンド第1-19号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-07T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-16T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-14",
+      "yieldRate": 4.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 30000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersd41b3f7f23b7e856",
+      "projectName": "特別債権担保融資ファンド3-1号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-07T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-17T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": "2027-06-14",
+      "yieldRate": 8.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 80000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
