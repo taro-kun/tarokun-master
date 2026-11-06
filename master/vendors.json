@@ -611,7 +611,13 @@
       "marketCategory": "unlisted",
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
-      "blogArticleUrl": null
+      "blogArticleUrl": null,
+      "projectNameRemovals": [
+        "みんなの年金",
+        "ファンド",
+        "ネクサスエージェント初！",
+        "特別記念"
+      ]
     },
     {
       "vendorId": "rimawarikun",
