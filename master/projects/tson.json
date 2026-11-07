@@ -4696,6 +4696,23 @@
       "recruitmentAmount": 142800000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson294231766074b2cf",
+      "projectName": "SMART FUND160号（岐阜県岐阜市萱場町B棟【第2期】）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-10T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-12T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-17",
+      "operationEndDate": "2027-09-16",
+      "plannedRedemptionDate": "2027-10-15",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 82700000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
