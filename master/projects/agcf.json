@@ -4947,6 +4947,23 @@
       "recruitmentAmount": 97000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcf2794fd62af47b664",
+      "projectName": "系統用蓄電池ファンド#6（北海道十勝郡）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-09T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-13T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-25",
+      "operationEndDate": "2027-11-24",
+      "plannedRedemptionDate": null,
+      "yieldRate": 8.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 386800000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
