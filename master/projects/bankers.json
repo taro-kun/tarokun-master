@@ -53193,6 +53193,23 @@
       "recruitmentAmount": 80000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersf912adcec50652d0",
+      "projectName": "【米ドル建て】モンゴルフィンテック事業者ファンド8号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-10T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-25T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-08",
+      "operationEndDate": "2027-12-31",
+      "plannedRedemptionDate": "2028-01-18",
+      "yieldRate": 8.41,
+      "operationPeriodValue": 13,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 20000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
