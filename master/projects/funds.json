@@ -10948,6 +10948,23 @@
       "recruitmentAmount": 300000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funds37dd6e93a4dd2ee6",
+      "projectName": "BareeモビリティECファンド#6",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-10T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-25T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-08",
+      "operationEndDate": "2028-05-31",
+      "plannedRedemptionDate": "2028-06-07",
+      "yieldRate": 4.7,
+      "operationPeriodValue": 18,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 450000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
