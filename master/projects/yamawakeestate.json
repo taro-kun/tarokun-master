@@ -5797,6 +5797,23 @@
       "recruitmentAmount": 170000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "yamawakeestatefe42f2dd372e5473",
+      "projectName": "千葉・君津　系統用蓄電池用地　EXITファンド",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-10T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-16T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-07-30",
+      "plannedRedemptionDate": "2027-08-31",
+      "yieldRate": 18.0,
+      "operationPeriodValue": 8,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 388000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
