@@ -10965,6 +10965,40 @@
       "recruitmentAmount": 450000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsbe8702b50d131509",
+      "projectName": "seven x seven ファンド#2",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-11T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-24T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-07",
+      "operationEndDate": "2027-08-31",
+      "plannedRedemptionDate": "2027-09-07",
+      "yieldRate": 2.75,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "funds4e2056a099c63497",
+      "projectName": "AI×テクノロジー戦略ファンド#11",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-11T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-24T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-07",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-07",
+      "yieldRate": 3.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 400000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
