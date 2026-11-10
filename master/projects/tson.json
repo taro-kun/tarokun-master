@@ -4713,6 +4713,23 @@
       "recruitmentAmount": 82700000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson7f48376be3897ce9",
+      "projectName": "SMART FUND161号（三重県四日市市河原田＜3期＞）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-13T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-16T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-20",
+      "operationEndDate": "2027-09-19",
+      "plannedRedemptionDate": "2027-10-19",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 89500000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
