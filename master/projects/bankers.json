@@ -53210,6 +53210,23 @@
       "recruitmentAmount": 20000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers80b402f40e63e00e",
+      "projectName": "【定期元本償還】【メキシコペソ建て】南部メキシコマイクロファイナンス支援ファンド3_12号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-11T18:00:00+09:00",
+      "recruitmentEndAt": "2026-12-10T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-23",
+      "operationEndDate": "2028-06-30",
+      "plannedRedemptionDate": "2028-07-14",
+      "yieldRate": 10.06,
+      "operationPeriodValue": 18,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 40000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
