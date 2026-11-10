@@ -2958,6 +2958,23 @@
       "recruitmentAmount": 220000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "commosus6ea408f69b7016b9",
+      "projectName": "八雲プロジェクト（COMMOSUSファンド172号）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-12T12:30:00+09:00",
+      "recruitmentEndAt": "2026-11-17T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": null,
+      "yieldRate": 7.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 470000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
