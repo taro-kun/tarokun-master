@@ -982,6 +982,35 @@
         "タスキ キャピタル重視型 第",
         "ファンド"
       ]
+    },
+    {
+      "vendorId": "rakutama",
+      "officialName": "らくたま",
+      "kana": "らくたま",
+      "displayName": "らくたま",
+      "aliases": [
+        "たまちゃん",
+        "らくたまちゃん",
+        "ラクタマ",
+        "rakutama"
+      ],
+      "listingPageUrls": [
+        "https://rakutama.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "らくたま"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 5,
+      "blogArticleUrl": "https://taroblog.net/24041301-rakutama-yield-6percent-4funds/"
     }
   ]
 }
