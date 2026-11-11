@@ -1011,6 +1011,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 5,
       "blogArticleUrl": "https://taroblog.net/24041301-rakutama-yield-6percent-4funds/"
+    },
+    {
+      "vendorId": "torches",
+      "officialName": "トーチーズ",
+      "kana": "とーちーず",
+      "displayName": "トーチーズ",
+      "aliases": [
+        "torches",
+        "とーちーず",
+        "トーチ"
+      ],
+      "listingPageUrls": [
+        "https://www.torches.fund/projects"
+      ],
+      "projectNameRemovals": [
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
