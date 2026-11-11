@@ -53227,6 +53227,40 @@
       "recruitmentAmount": 40000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersda7078bc956cb9e5",
+      "projectName": "系統用蓄電池事業支援ファンド14-1号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-12T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-19T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-11-30",
+      "plannedRedemptionDate": "2027-12-14",
+      "yieldRate": 11.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers3f310eb7f9c00bf5",
+      "projectName": "【円建て】バルカン地域オンライン金融事業者ファンド2_11号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-12T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-25T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-08",
+      "operationEndDate": "2027-12-31",
+      "plannedRedemptionDate": "2028-01-18",
+      "yieldRate": 6.67,
+      "operationPeriodValue": 13,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 15000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
