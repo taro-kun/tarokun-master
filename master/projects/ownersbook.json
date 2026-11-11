@@ -7599,6 +7599,23 @@
       "recruitmentAmount": 575000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "ownersbook8e960a5fae325ae2",
+      "projectName": "文京区本駒込レジデンス用地案件",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-12T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-26T09:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-12-20",
+      "plannedRedemptionDate": "2027-12-20",
+      "yieldRate": 5.4,
+      "operationPeriodValue": 13,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 209000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
