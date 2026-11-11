@@ -4811,6 +4811,40 @@
       "recruitmentAmount": 64800000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fantas883066ce549ee722",
+      "projectName": "FANTASファンド２８５号(※先着方式)",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-18T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-23T08:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-05-27",
+      "plannedRedemptionDate": null,
+      "yieldRate": 4.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 91800000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "fantas11115ab740461d13",
+      "projectName": "FANTASファンド２８４号(※抽選方式)",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-16T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-23T08:59:00+09:00",
+      "lotteryResultAt": "2026-11-23T00:00:00+09:00",
+      "operationStartDate": "2026-11-27",
+      "operationEndDate": "2027-05-27",
+      "plannedRedemptionDate": null,
+      "yieldRate": 4.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 72000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
