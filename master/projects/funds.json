@@ -10999,6 +10999,23 @@
       "recruitmentAmount": 400000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funds4eaa8470b906f71d",
+      "projectName": "BARREL不動産担保ローンファンド#1 難波中プロジェクト",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-13T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-20T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2028-11-30",
+      "plannedRedemptionDate": "2028-12-07",
+      "yieldRate": 4.56,
+      "operationPeriodValue": 24,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 660000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
