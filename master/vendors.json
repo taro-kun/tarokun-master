@@ -454,7 +454,7 @@
       "withdrawFeeSameBank": "無料",
       "withdrawFeeOtherBank": "月2回まで無料、3回目以降は330円/回",
       "marketCategory": "unlisted",
-      "riskLevel": "middle",
+      "riskLevel": "high",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null,
       "projectNameRemovals": [
