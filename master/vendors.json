@@ -1165,6 +1165,32 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 14,
       "blogArticleUrl": "https://taroblog.net/23081801-funvest-detailed-description/"
+    },
+    {
+      "vendorId": "gatesfunding",
+      "officialName": "GATES FUNDING",
+      "kana": "げいつふぁんでぃんぐ",
+      "displayName": "GATES",
+      "aliases": [
+        "ゲイツ"
+      ],
+      "listingPageUrls": [
+        "https://funding.gatestokyo.co.jp/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [
+        "FUNDING "
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "楽天銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
