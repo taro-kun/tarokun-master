@@ -1138,6 +1138,33 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 5,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "funvest",
+      "officialName": "Funvest",
+      "kana": "ふぁんべすと",
+      "displayName": "Funvest",
+      "aliases": [
+        "ファンベスト",
+        "ファンベ"
+      ],
+      "listingPageUrls": [
+        "https://ftt-funvest.jp/item/list/new"
+      ],
+      "projectNameRemovals": [
+        "ファンド"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 14,
+      "blogArticleUrl": "https://taroblog.net/23081801-funvest-detailed-description/"
     }
   ]
 }
