@@ -2530,7 +2530,7 @@
       "yieldRate": 5.5,
       "operationPeriodValue": 36,
       "operationPeriodUnit": "months",
-      "recruitmentAmount": 0,
+      "recruitmentAmount": 11770000,
       "firstComeStartAt": null,
       "firstComeAmount": null
     }
