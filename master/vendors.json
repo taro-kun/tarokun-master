@@ -1191,6 +1191,33 @@
       "riskLevel": "high",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "assecli",
+      "officialName": "ASSECLI",
+      "kana": "あせくり",
+      "displayName": "アセクリ",
+      "aliases": [],
+      "listingPageUrls": [
+        "https://assecli.com/main/fund_list/"
+      ],
+      "projectNameRemovals": [
+        "ファンド",
+        "インカム重視型　",
+        "ASSECLI",
+        "（区分）"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/22020501-assecli-detailed-description/"
     }
   ]
 }
