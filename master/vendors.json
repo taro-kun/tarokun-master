@@ -1068,6 +1068,34 @@
       "riskLevel": "high",
       "redemptionOffsetDays": 10,
       "blogArticleUrl": "https://taroblog.net/23092201-rimawari-fudousan-detailed-description/"
+    },
+    {
+      "vendorId": "rimple",
+      "officialName": "Rimple",
+      "kana": "りんぷる",
+      "displayName": "Rimple",
+      "aliases": [
+        "リンプル",
+        "Rimpleちゃん",
+        "リンプルちゃん"
+      ],
+      "listingPageUrls": [
+        "https://funding.propertyagent.co.jp/funds"
+      ],
+      "projectNameRemovals": [
+        "Rimple's Selection "
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "三菱UFJ銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/20021001-rimple-detailed-description/"
     }
   ]
 }
