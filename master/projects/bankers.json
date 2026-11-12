@@ -53261,6 +53261,23 @@
       "recruitmentAmount": 15000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers831012ccd2e0dff8",
+      "projectName": "【円建て】【海外】短期6か月ファンド3-7号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-13T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-23T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": "2027-06-14",
+      "yieldRate": 8.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
