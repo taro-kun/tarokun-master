@@ -5814,6 +5814,23 @@
       "recruitmentAmount": 388000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "yamawakeestate9d7a78ae4ad2e10c",
+      "projectName": "東京都新宿区四谷　レジデンスファンドIV",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-12T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-15T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-17",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": "2027-06-30",
+      "yieldRate": 15.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 63000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
