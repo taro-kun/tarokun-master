@@ -12,7 +12,7 @@
       "operationEndDate": "2027-06-01",
       "plannedRedemptionDate": "2027-07-31",
       "yieldRate": 2.7,
-      "operationPeriodValue": 1,
+      "operationPeriodValue": 6,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 26530000,
       "firstComeStartAt": null,
