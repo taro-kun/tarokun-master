@@ -3145,6 +3145,23 @@
       "recruitmentAmount": 204200000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "rimawarikun596f65489ce14279",
+      "projectName": "第6期 沖縄読谷村アパートメント（ID：195）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-16T20:00:00+09:00",
+      "recruitmentEndAt": "2026-11-23T12:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-01",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": "2027-06-30",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 103100000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
