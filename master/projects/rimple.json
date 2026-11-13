@@ -2217,7 +2217,7 @@
       "applicationMethod": "lottery",
       "recruitmentStartAt": "2020-10-30T18:00:00+09:00",
       "recruitmentEndAt": "2020-11-02T18:00:00+09:00",
-      "lotteryResultAt": null,
+      "lotteryResultAt": "2020-11-04T00:00:00+09:00",
       "firstComeStartAt": null,
       "operationStartDate": "2020-11-19",
       "operationEndDate": "2021-11-18",
