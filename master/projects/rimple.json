@@ -2210,6 +2210,23 @@
       "recruitmentAmount": 25200000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "rimplea6f3d5325058a57a",
+      "projectName": "Rimple's selection #8",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2020-10-30T18:00:00+09:00",
+      "recruitmentEndAt": "2020-11-02T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "firstComeStartAt": null,
+      "operationStartDate": "2020-11-19",
+      "operationEndDate": "2021-11-18",
+      "plannedRedemptionDate": "2021-12-31",
+      "yieldRate": 4.6,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 147000000,
+      "firstComeAmount": null
     }
   ]
 }
