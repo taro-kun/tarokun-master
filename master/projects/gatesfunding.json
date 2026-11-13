@@ -229,7 +229,7 @@
       "recruitmentStartAt": "2025-06-10T19:00:00+09:00",
       "recruitmentEndAt": "2025-06-16T23:59:00+09:00",
       "lotteryResultAt": "2025-06-17T00:00:00+09:00",
-      "operationStartDate": null,
+      "operationStartDate": "2025-06-26",
       "operationEndDate": null,
       "plannedRedemptionDate": null,
       "yieldRate": 9.5,
