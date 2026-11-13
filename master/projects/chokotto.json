@@ -460,7 +460,7 @@
       "lotteryResultAt": null,
       "operationStartDate": "2022-06-10",
       "operationEndDate": "2022-09-30",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2022-10-31",
       "yieldRate": 4,
       "operationPeriodValue": 4,
       "operationPeriodUnit": "months",
