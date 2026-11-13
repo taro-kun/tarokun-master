@@ -264,7 +264,7 @@
       "recruitmentEndAt": "2025-04-21T23:59:00+09:00",
       "lotteryResultAt": "2025-04-22T00:00:00+09:00",
       "operationStartDate": "2025-04-30",
-      "operationEndDate": null,
+      "operationEndDate": "2025-10-31",
       "plannedRedemptionDate": null,
       "yieldRate": 8,
       "operationPeriodValue": 6,
