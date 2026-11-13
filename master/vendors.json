@@ -45,7 +45,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "unlisted",
       "riskLevel": "middle",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 61,
       "blogArticleUrl": "https://taroblog.net/22020801-tson-funding-detailed-description/",
       "projectNameRemovals": [
         "FUND",
