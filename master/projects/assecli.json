@@ -437,8 +437,8 @@
       "operationEndDate": "2023-04-18",
       "plannedRedemptionDate": "2023-04-27",
       "yieldRate": 7,
-      "operationPeriodValue": null,
-      "operationPeriodUnit": null,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
       "recruitmentAmount": 200700000,
       "firstComeStartAt": null,
       "firstComeAmount": null
