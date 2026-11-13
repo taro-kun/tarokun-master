@@ -85,6 +85,23 @@
       "recruitmentAmount": 218500000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "senseownerse91aa7098a1ac563",
+      "projectName": "No.06 東京都荒川区荒川六丁目PJ",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-16T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-20T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-07-30",
+      "plannedRedemptionDate": "2027-08-23",
+      "yieldRate": 14.0,
+      "operationPeriodValue": 243,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
