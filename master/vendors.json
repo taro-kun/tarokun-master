@@ -1275,6 +1275,35 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "tecrowd",
+      "officialName": "TECROWD",
+      "kana": "てくらうど",
+      "displayName": "TECROWD",
+      "aliases": [
+        "テクラウド",
+        "テクラ"
+      ],
+      "listingPageUrls": [
+        "https://tecrowd.jp/funds"
+      ],
+      "projectNameRemovals": [
+        "TECROWD",
+        "ファンド",
+        " "
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "楽天銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "3万円未満150円、3万円以上229円",
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
