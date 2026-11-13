@@ -561,6 +561,23 @@
       "recruitmentAmount": 12720000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "gatesfunding8471830995b7f67a",
+      "projectName": "GATES FUNDING 34号",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-14T19:00:00+09:00",
+      "recruitmentEndAt": "2026-11-23T23:59:00+09:00",
+      "lotteryResultAt": "2026-11-24T00:00:00+09:00",
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-03-29",
+      "plannedRedemptionDate": null,
+      "yieldRate": 12.0,
+      "operationPeriodValue": 4,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 166440000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
