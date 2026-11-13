@@ -433,7 +433,7 @@
       "recruitmentStartAt": "2022-03-18T18:00:00+09:00",
       "recruitmentEndAt": "2022-04-12T23:59:00+09:00",
       "lotteryResultAt": null,
-      "operationStartDate": null,
+      "operationStartDate": "2022-04-19",
       "operationEndDate": null,
       "plannedRedemptionDate": "2023-04-27",
       "yieldRate": 7,
