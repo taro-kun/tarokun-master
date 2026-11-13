@@ -401,7 +401,7 @@
       "lotteryResultAt": null,
       "firstComeStartAt": null,
       "operationStartDate": "0000-00-00",
-      "operationEndDate": null,
+      "operationEndDate": "2999-12-31",
       "plannedRedemptionDate": null,
       "yieldRate": 2.5,
       "operationPeriodValue": null,
