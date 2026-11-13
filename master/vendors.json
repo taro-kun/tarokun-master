@@ -1304,6 +1304,37 @@
       "riskLevel": "high",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "tomotaqu",
+      "officialName": "トモタク",
+      "kana": "ともたく",
+      "displayName": "トモタク",
+      "aliases": [
+        "TOMOTAQU",
+        "TOMOTAKU"
+      ],
+      "listingPageUrls": [
+        "https://www.tomotaqu.com/fund_list/page/1/"
+      ],
+      "projectNameRemovals": [
+        "トモタク",
+        "CF",
+        "【",
+        "MINI】",
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "月1回無料、2回目以降145円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
