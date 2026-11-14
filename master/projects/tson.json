@@ -4730,6 +4730,23 @@
       "recruitmentAmount": 89500000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson7ee1c2188ed9d0d1",
+      "projectName": "SMART FUND162号（愛知県豊田市越戸駅B棟【第2期】）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-17T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-19T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-25",
+      "operationEndDate": "2027-09-24",
+      "plannedRedemptionDate": "2027-10-22",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 81100000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
