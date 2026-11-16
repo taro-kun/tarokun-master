@@ -314,7 +314,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "standard",
       "riskLevel": "middle",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 30,
       "blogArticleUrl": null,
       "projectNameRemovals": [
         "系統用",
