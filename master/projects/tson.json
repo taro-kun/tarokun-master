@@ -2576,7 +2576,7 @@
       "operationStartDate": "2024-06-27",
       "operationEndDate": "2024-09-26",
       "plannedRedemptionDate": null,
-      "yieldRate": null,
+      "yieldRate": 5.8,
       "operationPeriodValue": 92,
       "operationPeriodUnit": "days",
       "recruitmentAmount": 135000000
