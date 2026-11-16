@@ -384,7 +384,7 @@
       "lotteryResultAt": null,
       "operationStartDate": "2024-04-15",
       "operationEndDate": "2025-04-14",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2025-05-09",
       "yieldRate": 6,
       "operationPeriodValue": 12,
       "operationPeriodUnit": "months",
