@@ -894,7 +894,7 @@
       "withdrawFeeOtherBank": "100円",
       "marketCategory": "standard",
       "riskLevel": "low",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 20,
       "blogArticleUrl": "https://taroblog.net/21022001-oyadotcom-detailed-description/",
       "projectNameRemovals": [
         "区分マンション",
