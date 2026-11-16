@@ -345,7 +345,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "unlisted",
       "riskLevel": "low",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 7,
       "blogArticleUrl": null,
       "projectNameRemovals": [
         "：",
