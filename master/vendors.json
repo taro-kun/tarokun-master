@@ -513,7 +513,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "unlisted",
       "riskLevel": "middle",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 30,
       "blogArticleUrl": "https://taroblog.net/20031101-pocket-funding-detailed-description/",
       "projectNameRemovals": [
         "ファンド",
