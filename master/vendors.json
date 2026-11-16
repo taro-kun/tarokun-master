@@ -622,7 +622,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "unlisted",
       "riskLevel": "middle",
-      "redemptionOffsetDays": null,
+      "redemptionOffsetDays": 20,
       "blogArticleUrl": null,
       "projectNameRemovals": [
         "みんなの年金",
