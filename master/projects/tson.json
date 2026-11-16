@@ -3401,7 +3401,7 @@
       "operationStartDate": "2023-06-09",
       "operationEndDate": "2026-06-08",
       "plannedRedemptionDate": null,
-      "yieldRate": null,
+      "yieldRate": 5.8,
       "operationPeriodValue": 36,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 63100000
