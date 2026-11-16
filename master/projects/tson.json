@@ -1976,7 +1976,7 @@
       "operationStartDate": "2025-02-14",
       "operationEndDate": "2026-08-13",
       "plannedRedemptionDate": null,
-      "yieldRate": null,
+      "yieldRate": 5.6,
       "operationPeriodValue": 12,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 89000000
