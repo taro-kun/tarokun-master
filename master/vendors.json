@@ -998,7 +998,8 @@
         "https://rakutama.jp/projects"
       ],
       "projectNameRemovals": [
-        "らくたま"
+        "らくたま",
+        "プロジェクト"
       ],
       "vendorType": "real_estate_crowdfunding",
       "depositTiming": "post",
