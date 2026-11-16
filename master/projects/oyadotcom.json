@@ -333,7 +333,7 @@
       "lotteryResultAt": "2024-05-15T00:00:00+09:00",
       "operationStartDate": "2024-05-21",
       "operationEndDate": "2024-11-20",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2024-12-13",
       "yieldRate": 4.5,
       "operationPeriodValue": 6,
       "operationPeriodUnit": "months",
