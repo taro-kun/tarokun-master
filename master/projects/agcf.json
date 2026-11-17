@@ -5015,6 +5015,40 @@
       "recruitmentAmount": 33000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcfbaf37864f243b4bd",
+      "projectName": "不動産担保ローンファンド#233（土地@京都府向日市）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-17T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-19T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-12-28",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.5,
+      "operationPeriodValue": 13,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 107000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "agcf123d1dfede308cf0",
+      "projectName": "不動産担保ローンファンド#231（一棟アパート@世田谷区松原）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-17T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-19T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-11-29",
+      "plannedRedemptionDate": null,
+      "yieldRate": 7.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 200000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
