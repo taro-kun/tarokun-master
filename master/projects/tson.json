@@ -4747,6 +4747,23 @@
       "recruitmentAmount": 81100000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson80bd76a973d728e0",
+      "projectName": "「AI勝率一番180」51号（愛知県高浜市吉浜駅＜第1期＞）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-20T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-24T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-28",
+      "operationEndDate": "2027-05-26",
+      "plannedRedemptionDate": "2027-06-25",
+      "yieldRate": 5.5,
+      "operationPeriodValue": 180,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 111000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
