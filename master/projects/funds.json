@@ -11016,6 +11016,40 @@
       "recruitmentAmount": 660000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsfd62f1a1c20e7154",
+      "projectName": "JALマイレージファンド#4",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-24T15:30:00+09:00",
+      "recruitmentEndAt": "2026-12-01T15:00:00+09:00",
+      "lotteryResultAt": "2026-12-01T00:00:00+09:00",
+      "operationStartDate": "2026-12-25",
+      "operationEndDate": "2027-02-26",
+      "plannedRedemptionDate": "2027-03-05",
+      "yieldRate": 2.0,
+      "operationPeriodValue": 2,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 200000000,
+      "firstComeStartAt": "2026-12-02T19:00:00+09:00",
+      "firstComeAmount": 10000000
+    },
+    {
+      "projectId": "funds021b45c748f0b147",
+      "projectName": "底地くんファンド#22",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-18T19:00:00+09:00",
+      "recruitmentEndAt": "2026-12-07T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-18",
+      "operationEndDate": "2027-06-30",
+      "plannedRedemptionDate": "2027-07-07",
+      "yieldRate": 2.85,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
