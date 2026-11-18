@@ -3859,6 +3859,23 @@
       "recruitmentAmount": 140000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funvest50cb60fbec1c398c",
+      "projectName": "ＮＳＧホールディングス 新潟イノベーションファンド１０－１号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-20T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-27T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-08",
+      "operationEndDate": "2027-10-29",
+      "plannedRedemptionDate": null,
+      "yieldRate": 3.75,
+      "operationPeriodValue": 11,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 80000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
