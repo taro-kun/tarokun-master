@@ -5831,6 +5831,23 @@
       "recruitmentAmount": 63000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "yamawakeestate8afe5389dfa63b91",
+      "projectName": "長野・木曽　系統用蓄電池用地　EXITファンドⅡ",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-19T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-24T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-05-28",
+      "plannedRedemptionDate": "2027-06-30",
+      "yieldRate": 18.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 183000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
