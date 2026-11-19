@@ -782,6 +782,23 @@
       "recruitmentAmount": 48000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "naniwae4b88ce5828c906d",
+      "projectName": "まいど33号（まいど16号再組成ファンド）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-12-02T11:00:00+09:00",
+      "recruitmentEndAt": null,
+      "lotteryResultAt": null,
+      "operationStartDate": "2027-02-01",
+      "operationEndDate": "2029-01-30",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.0,
+      "operationPeriodValue": 24,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 45000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
