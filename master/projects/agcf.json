@@ -5049,6 +5049,23 @@
       "recruitmentAmount": 200000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcf443de33809e860c5",
+      "projectName": "不動産担保ローンファンド#234（一棟アパート@杉並区下井草）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-19T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-25T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-12-03",
+      "plannedRedemptionDate": null,
+      "yieldRate": 7.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 60000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
