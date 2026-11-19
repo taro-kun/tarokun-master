@@ -53312,6 +53312,23 @@
       "recruitmentAmount": 52320000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers4a4de5dd50373d1b",
+      "projectName": "【円建て】バルカン地域オンライン金融事業者ファンド2_12号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-20T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-30T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-11",
+      "operationEndDate": "2027-12-31",
+      "plannedRedemptionDate": "2028-01-18",
+      "yieldRate": 6.66,
+      "operationPeriodValue": 13,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 15000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
