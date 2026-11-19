@@ -11050,6 +11050,23 @@
       "recruitmentAmount": 300000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "fundsb6bb633b6cf8e67d",
+      "projectName": "不動産担保ローンファンド#11 西麻布プロジェクト",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-20T19:00:00+09:00",
+      "recruitmentEndAt": "2026-12-02T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-15",
+      "operationEndDate": "2028-05-31",
+      "plannedRedemptionDate": "2028-06-07",
+      "yieldRate": 4.5,
+      "operationPeriodValue": 18,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 230000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
