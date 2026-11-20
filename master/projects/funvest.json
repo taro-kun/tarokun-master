@@ -3876,6 +3876,23 @@
       "recruitmentAmount": 80000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funvest6c20c6613558631d",
+      "projectName": "アトラスグループ 札幌市豊平区マンション開発ファンド１－１号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-24T12:00:00+09:00",
+      "recruitmentEndAt": "2026-12-01T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-10",
+      "operationEndDate": "2027-04-30",
+      "plannedRedemptionDate": null,
+      "yieldRate": 3.65,
+      "operationPeriodValue": 5,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 120000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
