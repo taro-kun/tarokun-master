@@ -1608,6 +1608,35 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "myfund",
+      "officialName": "Myファンドクラウドファンディング",
+      "kana": "まいふぁんど",
+      "displayName": "Myファンド",
+      "aliases": [
+        "myfund",
+        "my fund",
+        "Myファンド",
+        "マイファンド"
+      ],
+      "listingPageUrls": [
+        "https://my-fund1.com/projects"
+      ],
+      "projectNameRemovals": [
+        "空き家ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
