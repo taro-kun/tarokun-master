@@ -1548,6 +1548,38 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "beginnerscloud",
+      "officialName": "ビギナーズクラウド",
+      "kana": "びぎなーずくらうど",
+      "displayName": "ビギナーズ",
+      "aliases": [
+        "beginnerscloud",
+        "beginners cloud",
+        "beginners-cloud"
+      ],
+      "listingPageUrls": [
+        "https://beginners-cloud.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "ビギナーズクラウド第",
+        "【詳細確認用】",
+        "【運用中】",
+        "【運用終了】",
+        "【終了】"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/23101501-beginners-cloud-detailed-description/"
     }
   ]
 }
