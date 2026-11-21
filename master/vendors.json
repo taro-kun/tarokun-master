@@ -1814,6 +1814,39 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "assetfunding",
+      "officialName": "ASSET FUNDING",
+      "kana": "あせっとふぁんでぃんぐ",
+      "displayName": "ASSET-F",
+      "aliases": [
+        "asset",
+        "asset funding",
+        "asset-funding",
+        "アセット",
+        "アセットファンディング"
+      ],
+      "listingPageUrls": [
+        "https://asset-funding.jp/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [
+        "【先着】",
+        "ASSET FUNDING",
+        " ",
+        "【抽選】"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "145円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
