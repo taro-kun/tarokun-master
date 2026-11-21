@@ -1335,6 +1335,38 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "shiodome",
+      "officialName": "汐留ファンディング",
+      "kana": "しおどめふぁんでぃんぐ",
+      "displayName": "汐留",
+      "aliases": [
+        "SHIODOME funding",
+        "SHIODOME-funding",
+        "SHIODOME",
+        "SHIODOMEファンディング",
+        "汐留 funding",
+        "汐留funding"
+      ],
+      "listingPageUrls": [
+        "https://shiodome-funding.com/projects"
+      ],
+      "projectNameRemovals": [
+        "汐留ファンディング",
+        "プロジェクト"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
