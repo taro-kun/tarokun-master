@@ -1,4 +1,56 @@
 {
   "vendorId": "sunnyproud",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "sunnyproud4dd4888821d1659b",
+      "projectName": "SunnyProud 3号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-09-15T18:00:00+09:00",
+      "recruitmentEndAt": "2026-10-31T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": null,
+      "operationEndDate": null,
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 100000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "sunnyproudb441b1175663d8b2",
+      "projectName": "SunnyProud2号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-01-08T15:00:00+09:00",
+      "recruitmentEndAt": "2026-05-12T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": null,
+      "operationEndDate": null,
+      "plannedRedemptionDate": null,
+      "yieldRate": 7.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "sunnyproud3ac2e715b0fe9039",
+      "projectName": "CSF（個人型）1号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2025-08-09T00:00:00+09:00",
+      "recruitmentEndAt": "2025-09-09T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2025-09-17",
+      "operationEndDate": "2026-09-16",
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 10000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
