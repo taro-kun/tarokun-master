@@ -1428,6 +1428,40 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "tamurabuilds",
+      "officialName": "田村ビルズクラウドファンディング",
+      "kana": "たむらびるずくらうどふぁんでぃんぐ",
+      "displayName": "田村ビルズ",
+      "aliases": [
+        "tamura-builds",
+        "tamura builds",
+        "田村",
+        "タムラ",
+        "田村ビルズクラウド"
+      ],
+      "listingPageUrls": [
+        "https://tamura-builds-crowdfunding.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "ファンド",
+        "プロジェクト",
+        "田村ビルズ",
+        "ぶちええ",
+        "やまぐち"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "tpm",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
