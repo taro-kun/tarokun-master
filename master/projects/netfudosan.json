@@ -1,4 +1,56 @@
 {
   "vendorId": "netfudosan",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "netfudosanb66f677dae98061b",
+      "projectName": "第3号 四ツ谷リノベーションプロジェクト",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-06-10T12:00:00+09:00",
+      "recruitmentEndAt": "2026-06-20T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-07-01",
+      "operationEndDate": "2027-06-30",
+      "plannedRedemptionDate": null,
+      "yieldRate": 4.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 30000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "netfudosanaac661ea776c2dfd",
+      "projectName": "第2号 湯島御徒町ホテルプロジェクト",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2025-05-15T18:00:00+09:00",
+      "recruitmentEndAt": "2025-06-30T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2025-07-01",
+      "operationEndDate": "2026-06-30",
+      "plannedRedemptionDate": null,
+      "yieldRate": 10.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "netfudosan209425304cb46950",
+      "projectName": "第1号 広尾駅前事業用賃貸ビルP",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2024-10-29T00:00:00+09:00",
+      "recruitmentEndAt": "2024-11-30T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": null,
+      "operationEndDate": null,
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
