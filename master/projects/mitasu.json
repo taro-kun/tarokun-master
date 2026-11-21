@@ -1,4 +1,73 @@
 {
   "vendorId": "mitasu",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "mitasu6c7b680c2cb9b40b",
+      "projectName": "mitasu funding#4 米子市収益マンション",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2023-03-01T00:00:00+09:00",
+      "recruitmentEndAt": "2023-04-01T00:00:00+09:00",
+      "lotteryResultAt": "2023-04-02T00:00:00+09:00",
+      "operationStartDate": "2023-04-10",
+      "operationEndDate": "2024-04-08",
+      "plannedRedemptionDate": "2024-06-07",
+      "yieldRate": 7.0,
+      "operationPeriodValue": 365,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 20000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "mitasufcefd68fa5fcdbaf",
+      "projectName": "mitasu funding♯3　甲府市アパートメント",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2022-11-01T19:00:00+09:00",
+      "recruitmentEndAt": "2022-11-20T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2022-12-01",
+      "operationEndDate": "2023-05-31",
+      "plannedRedemptionDate": "2023-06-30",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 182,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 15000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "mitasu05e51818598a5210",
+      "projectName": "mitasu funding　＃ ２　大阪市城東区１棟収益マンション",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2022-09-16T00:00:00+09:00",
+      "recruitmentEndAt": "2022-09-24T23:59:00+09:00",
+      "lotteryResultAt": "2022-09-25T00:00:00+09:00",
+      "operationStartDate": "2022-10-01",
+      "operationEndDate": "2023-03-31",
+      "plannedRedemptionDate": "2023-04-30",
+      "yieldRate": 7.0,
+      "operationPeriodValue": 182,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 5000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "mitasu345e8bc70fa05197",
+      "projectName": "mitasu funding　＃ 1 宇治善方",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2022-08-21T09:00:00+09:00",
+      "recruitmentEndAt": "2022-08-28T15:00:00+09:00",
+      "lotteryResultAt": "2022-08-29T00:00:00+09:00",
+      "operationStartDate": "2022-09-01",
+      "operationEndDate": "2023-02-28",
+      "plannedRedemptionDate": "2023-03-31",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 181,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 8000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
