@@ -1906,6 +1906,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "fcfunding",
+      "officialName": "FC FUNDING",
+      "kana": "えふしーふぁんでぃんぐ",
+      "displayName": "FC",
+      "aliases": [
+        "fc funding",
+        "fc-funding"
+      ],
+      "listingPageUrls": [
+        "https://fc-funding.jp/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [
+        "FC",
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
