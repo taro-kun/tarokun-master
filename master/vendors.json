@@ -1515,6 +1515,39 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "partners",
+      "officialName": "パートナーズファンディング",
+      "kana": "ぱーとなーずふぁんでぃんぐ",
+      "displayName": "パートナー",
+      "aliases": [
+        "パートナーズ",
+        "PARTNERS Funding",
+        "PARTNERS",
+        "PARTNERS-Funding",
+        "パトナ"
+      ],
+      "listingPageUrls": [
+        "https://partners-funding.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "PARTNERS Funding ",
+        "✿ 22",
+        " ✿",
+        "✿ 21"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "growth",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
