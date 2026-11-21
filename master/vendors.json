@@ -1934,6 +1934,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "jinushiclub",
+      "officialName": "地主倶楽部",
+      "kana": "じぬしくらぶ",
+      "displayName": "地主倶楽部",
+      "aliases": [
+        "地主"
+      ],
+      "listingPageUrls": [
+        "https://jinushi-club.jp/fund"
+      ],
+      "projectNameRemovals": [
+        "地主倶楽部",
+        "「",
+        "」"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "low",
+      "redemptionOffsetDays": 5,
+      "blogArticleUrl": null
     }
   ]
 }
