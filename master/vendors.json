@@ -1781,6 +1781,39 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "smartlending",
+      "officialName": "スマートレンディング",
+      "kana": "すまーとれんでぃんぐ",
+      "displayName": "スマートL",
+      "aliases": [
+        "スマート",
+        "smartlending",
+        "smart lending",
+        "smart",
+        "smart-lending",
+        "スマトレ"
+      ],
+      "listingPageUrls": [
+        "https://lending.gift-finance.co.jp/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [
+        "ファンド",
+        "（Fund",
+        "）"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "post",
+      "bankName": "楽天銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
