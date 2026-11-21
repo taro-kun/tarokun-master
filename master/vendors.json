@@ -1367,6 +1367,37 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "justfit",
+      "officialName": "ジャストフィット",
+      "kana": "じゃすとふぃっと",
+      "displayName": "ジャストF",
+      "aliases": [
+        "JUSTFIT",
+        "ジャスト",
+        "shimada-funding",
+        "shimada funding",
+        "シマダ"
+      ],
+      "listingPageUrls": [
+        "https://justfit-shimada-funding.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "ジャストフィット",
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
