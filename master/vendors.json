@@ -1398,6 +1398,36 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "darwin",
+      "officialName": "DARWIN funding",
+      "kana": "だーうぃんふぁんでぃんぐ",
+      "displayName": "ダーウィン",
+      "aliases": [
+        "DARWIN",
+        "DARWIN-funding",
+        "ダーウィンファンディング"
+      ],
+      "listingPageUrls": [
+        "https://darwinfunding.com/projects"
+      ],
+      "projectNameRemovals": [
+        "DARWIN funding",
+        "★",
+        " 開発型"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
