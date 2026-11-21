@@ -1637,6 +1637,35 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "mitasu",
+      "officialName": "mitasu funding",
+      "kana": "みたすふぁんでぃんぐ",
+      "displayName": "mitasu",
+      "aliases": [
+        "みたす",
+        "ミタス",
+        "mitasu"
+      ],
+      "listingPageUrls": [
+        "https://mitasu-funding.com/projects"
+      ],
+      "projectNameRemovals": [
+        "mitasu funding　",
+        "mitasu funding"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
