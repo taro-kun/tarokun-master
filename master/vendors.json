@@ -1721,6 +1721,38 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "cool",
+      "officialName": "COOL",
+      "kana": "くーる",
+      "displayName": "COOL",
+      "aliases": [
+        "クール"
+      ],
+      "listingPageUrls": [
+        "https://c8l.jp/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [
+        "ファンド",
+        "不動産再生",
+        "【特典付】",
+        "エンタープライズ",
+        "不動産事業",
+        "ダイニング事業",
+        "不動産開発事業"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "growth",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 3,
+      "blogArticleUrl": null
     }
   ]
 }
