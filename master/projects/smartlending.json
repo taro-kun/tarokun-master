@@ -1,4 +1,39 @@
 {
   "vendorId": "smartlending",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "smartlending32613ba248b06bc8",
+      "projectName": "要町レジデンス担保付融資ファンド（Fund＃2）",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-07-06T12:00:00+09:00",
+      "recruitmentEndAt": "2026-07-13T23:59:00+09:00",
+      "lotteryResultAt": "2026-07-14T00:00:00+09:00",
+      "operationStartDate": "2026-07-31",
+      "operationEndDate": "2027-04-30",
+      "plannedRedemptionDate": "2027-05-19",
+      "yieldRate": 10.5,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 4900000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "smartlending5c2aef34f34d036e",
+      "projectName": "西川口レジデンス担保付融資ファンド（Fund＃1）",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-05-07T12:00:00+09:00",
+      "recruitmentEndAt": "2026-05-14T23:59:00+09:00",
+      "lotteryResultAt": "2026-05-15T00:00:00+09:00",
+      "operationStartDate": "2026-05-29",
+      "operationEndDate": "2026-11-30",
+      "plannedRedemptionDate": "2026-12-14",
+      "yieldRate": 8.0,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 12000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
