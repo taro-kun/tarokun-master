@@ -2135,6 +2135,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "minman",
+      "officialName": "みんなdeマンション経営",
+      "kana": "みんなでまんしょんけいえい",
+      "displayName": "みんマン",
+      "aliases": [
+        "みんなdeマンション",
+        "みんなマンション",
+        "みんなde"
+      ],
+      "listingPageUrls": [],
+      "projectNameRemovals": [],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "三菱UFJ銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
