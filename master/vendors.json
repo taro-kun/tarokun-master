@@ -2340,6 +2340,35 @@
       "riskLevel": "high",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "trinityfund",
+      "officialName": "トリニティファンド",
+      "kana": "とりにてぃふぁんど",
+      "displayName": "トリニティ",
+      "aliases": [
+        "trinity fund",
+        "trinity-fund",
+        "trinity"
+      ],
+      "listingPageUrls": [
+        "https://trinityfund.jp/fund?union_type=voluntary",
+        "https://trinityfund.jp/fund?union_type=anonymous"
+      ],
+      "projectNameRemovals": [
+        "TRINITY FUND "
+      ],
+      "vendorType": "other",
+      "depositTiming": "post",
+      "bankName": "不明",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
