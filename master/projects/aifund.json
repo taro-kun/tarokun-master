@@ -1,4 +1,39 @@
 {
   "vendorId": "aifund",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "aifund73d944f59331ee3b",
+      "projectName": "ai fund 第2号ファンド～Aifort.立川Ⅲ～",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-09-01T00:00:00+09:00",
+      "recruitmentEndAt": null,
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-10-09",
+      "operationEndDate": "2027-10-08",
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.0,
+      "operationPeriodValue": 365,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 10000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "aifund871efa347cfe6485",
+      "projectName": "ai fund 第一号ファンド～立川～",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-06-18T10:00:00+09:00",
+      "recruitmentEndAt": "2026-06-29T22:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-06-30",
+      "operationEndDate": "2027-06-29",
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.0,
+      "operationPeriodValue": 365,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
