@@ -1,4 +1,39 @@
 {
   "vendorId": "fcrowd",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "fcrowd9a0315cc695292ed",
+      "projectName": "FCROWD2号ファンド",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2024-11-01T10:00:00+09:00",
+      "recruitmentEndAt": "2024-11-21T23:59:00+09:00",
+      "lotteryResultAt": "2024-11-22T00:00:00+09:00",
+      "operationStartDate": "2024-12-20",
+      "operationEndDate": "2025-12-19",
+      "plannedRedemptionDate": null,
+      "yieldRate": 6.2,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 36440000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "fcrowdbf858cf66fd9a0cd",
+      "projectName": "FCROWD1号ファンド",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2024-05-01T10:00:00+09:00",
+      "recruitmentEndAt": "2024-05-14T23:59:00+09:00",
+      "lotteryResultAt": "2024-05-15T00:00:00+09:00",
+      "operationStartDate": "2024-06-12",
+      "operationEndDate": "2025-06-11",
+      "plannedRedemptionDate": null,
+      "yieldRate": 8.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 33900000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
