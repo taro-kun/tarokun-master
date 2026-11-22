@@ -1,4 +1,56 @@
 {
   "vendorId": "kyushuasia",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "kyushuasiafbb6bb79e483f6de",
+      "projectName": "KAF4号【福岡市・祇園】(博多区祇園町 ビル・駐車場)",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-09-01T11:00:00+09:00",
+      "recruitmentEndAt": "2026-09-24T23:00:00+09:00",
+      "lotteryResultAt": "2026-09-25T00:00:00+09:00",
+      "operationStartDate": "2026-10-01",
+      "operationEndDate": "2027-01-31",
+      "plannedRedemptionDate": "2027-02-26",
+      "yieldRate": 8.0,
+      "operationPeriodValue": 4,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 154000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "kyushuasia0fd44170a558e647",
+      "projectName": "KAF3号【福岡市・薬院】(ティアラ薬院)",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-02-16T11:00:00+09:00",
+      "recruitmentEndAt": "2026-03-10T23:00:00+09:00",
+      "lotteryResultAt": "2026-03-11T00:00:00+09:00",
+      "operationStartDate": "2026-03-18",
+      "operationEndDate": "2027-03-17",
+      "plannedRedemptionDate": "2027-05-17",
+      "yieldRate": 10.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "kyushuasia36c410a310c432cb",
+      "projectName": "KAF1号【福岡市西新】（西新中央マンション）",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2024-12-06T10:00:00+09:00",
+      "recruitmentEndAt": "2025-01-21T22:00:00+09:00",
+      "lotteryResultAt": "2025-01-22T00:00:00+09:00",
+      "operationStartDate": "2025-02-01",
+      "operationEndDate": "2025-06-30",
+      "plannedRedemptionDate": "2025-08-29",
+      "yieldRate": 6.25,
+      "operationPeriodValue": 72,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 21000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
