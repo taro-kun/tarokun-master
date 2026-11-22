@@ -2109,6 +2109,32 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "minnadeooyasan",
+      "officialName": "みんなで大家さんmini",
+      "kana": "みんなでおおやさんみに",
+      "displayName": "みんな大家",
+      "aliases": [
+        "みんなで大家さん",
+        "みんなで大家",
+        "みんな大家さん"
+      ],
+      "listingPageUrls": [
+        "https://minnadeooyasan-mini.com/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
