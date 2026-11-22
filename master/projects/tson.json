@@ -4764,6 +4764,23 @@
       "recruitmentAmount": 111000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson7c21353d1266997a",
+      "projectName": "SMART FUND163号（愛知県豊田市小坂町＜4期＞）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-25T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-27T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-11-30",
+      "operationEndDate": "2027-09-29",
+      "plannedRedemptionDate": "2027-10-29",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 77000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
