@@ -1,4 +1,22 @@
 {
   "vendorId": "realefund",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "realefund23de43aa3f7cab78",
+      "projectName": "【REALE1号】恵比寿一棟レジデンス",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-09-16T12:00:00+09:00",
+      "recruitmentEndAt": "2026-09-30T09:00:00+09:00",
+      "lotteryResultAt": "2026-10-01T00:00:00+09:00",
+      "operationStartDate": "2026-10-13",
+      "operationEndDate": "2027-04-12",
+      "plannedRedemptionDate": "2027-05-07",
+      "yieldRate": 6.5,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 462000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
