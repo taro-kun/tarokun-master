@@ -11696,6 +11696,23 @@
       "recruitmentAmount": 34430000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "pocketfunding6253fad97b15da09",
+      "projectName": "ＰＦ軍用地担保ファンド６７号【一部不動産担保付】",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-24T12:30:00+09:00",
+      "recruitmentEndAt": "2026-12-02T02:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-11",
+      "operationEndDate": "2027-09-27",
+      "plannedRedemptionDate": "2027-10-15",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 10,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 36010000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
