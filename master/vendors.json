@@ -2310,6 +2310,36 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/26091101-reale-detailed-description/"
+    },
+    {
+      "vendorId": "levechyfund",
+      "officialName": "LEVECHY Fund",
+      "kana": "れべちー",
+      "displayName": "レベチー",
+      "aliases": [
+        "LEVECHY",
+        "レベチ",
+        "levechy-fund"
+      ],
+      "listingPageUrls": [
+        "https://levechy.com/fund/list"
+      ],
+      "projectNameRemovals": [
+        "LEVECHYファンド",
+        "（抽選式）",
+        "（先着式）"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "99円",
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
