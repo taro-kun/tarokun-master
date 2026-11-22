@@ -2023,6 +2023,39 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 60,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "fundrop",
+      "officialName": "FUNDROP",
+      "kana": "ふぁんどろっぷ",
+      "displayName": "ファンドロ",
+      "aliases": [
+        "ファンドロップ"
+      ],
+      "listingPageUrls": [
+        "https://fundrop.jp/investment/fund_list.html"
+      ],
+      "projectNameRemovals": [
+        "FUNDROP　",
+        "賃料保証",
+        "×",
+        "再組成",
+        "インカム",
+        "年利8％",
+        "劣後60％",
+        "買取保証付き"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "楽天銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "52円",
+      "withdrawFeeOtherBank": "3万円未満：150円、3万円以上：229円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
