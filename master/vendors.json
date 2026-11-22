@@ -2249,6 +2249,38 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "propertyplus",
+      "officialName": "property+",
+      "kana": "ぷろぱてぃぷらす",
+      "displayName": "プロプラ",
+      "aliases": [
+        "プロパティプラス",
+        "プロパティ＋",
+        "プロパティ+",
+        "プロパティ"
+      ],
+      "listingPageUrls": [
+        "https://propertyplus.jp/investment/fund_list.html?business_type=1",
+        "https://propertyplus.jp/investment/fund_list.html?business_type=2"
+      ],
+      "projectNameRemovals": [
+        "ファンド",
+        "Branche",
+        "quador"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
