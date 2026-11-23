@@ -1,4 +1,22 @@
 {
   "vendorId": "osawafund",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "osawafund23a552595455c898",
+      "projectName": "「和尊パートナーズ進学塾Rexビル プロジェクト」",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2027-01-01T12:00:00+09:00",
+      "recruitmentEndAt": "2027-01-17T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2027-02-15",
+      "operationEndDate": "2033-02-14",
+      "plannedRedemptionDate": null,
+      "yieldRate": 5.88,
+      "operationPeriodValue": 72,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 243000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
