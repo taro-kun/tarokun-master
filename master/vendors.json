@@ -2650,6 +2650,37 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 60,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "vifa",
+      "officialName": "VIFA",
+      "kana": "びーふぁ",
+      "displayName": "VIFA",
+      "aliases": [
+        "ビーファ",
+        "おうちの再生ファンド",
+        "おうちの再生ファンドVIFA",
+        "再生ファンド"
+      ],
+      "listingPageUrls": [
+        "https://ouchinosaiseifund-vifa.jp/fund"
+      ],
+      "projectNameRemovals": [
+        "おうちの再生ファンド",
+        "VIFA",
+        " "
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "145円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 60,
+      "blogArticleUrl": null
     }
   ]
 }
