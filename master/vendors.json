@@ -2708,6 +2708,35 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 60,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "minnadeshare",
+      "officialName": "みんなでシェアファンド",
+      "kana": "みんなでしぇあふぁんど",
+      "displayName": "みんシェア",
+      "aliases": [
+        "みんなでシェア",
+        "シェアファンド",
+        "みんな",
+        "みんなで"
+      ],
+      "listingPageUrls": [
+        "https://share-owner.com/fund"
+      ],
+      "projectNameRemovals": [
+        "みんなでシェアファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "145円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 60,
+      "blogArticleUrl": null
     }
   ]
 }
