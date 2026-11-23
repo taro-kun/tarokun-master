@@ -2614,6 +2614,42 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 14,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "replan",
+      "officialName": "Re-plan Funding",
+      "kana": "りぷらんふぁんでぃんぐ",
+      "displayName": "リプラン",
+      "aliases": [
+        "Re-plan",
+        "Replan Funding",
+        "Replan-Funding",
+        "Replan",
+        "Re-plan-Funding",
+        "リプランファンディング"
+      ],
+      "listingPageUrls": [
+        "https://replan-funding.jp/fund/list"
+      ],
+      "projectNameRemovals": [
+        "Re-plan Funding",
+        "EXIT",
+        "ファンド",
+        "インカム",
+        "開発",
+        "障がい者"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "三井住友銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "渋谷支店（3万円未満：110円、3万円以上：220円）、他店（3万円未満：220円、3万円以上：440円）",
+      "withdrawFeeOtherBank": "3万円未満：495円、3万円以上：660円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 60,
+      "blogArticleUrl": null
     }
   ]
 }
