@@ -2737,6 +2737,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 60,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "wakachiai",
+      "officialName": "わかちあいファンド",
+      "kana": "わかちあいふぁんど",
+      "displayName": "わかちあい",
+      "aliases": [
+        "WAKACHI-I",
+        "WAKACHI"
+      ],
+      "listingPageUrls": [
+        "https://wakachi-i.jp/fund"
+      ],
+      "projectNameRemovals": [
+        "わかちあい",
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "bankName": "PayPay銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "10万円未満：145円、10万円以上：無料",
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": 60,
+      "blogArticleUrl": null
     }
   ]
 }
