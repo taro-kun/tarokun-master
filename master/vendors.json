@@ -2524,6 +2524,33 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "incapi",
+      "officialName": "Incapi",
+      "kana": "いんきゃぴ",
+      "displayName": "Incapi",
+      "aliases": [
+        "インキャピ"
+      ],
+      "listingPageUrls": [
+        "https://incapi.jp/fund/list"
+      ],
+      "projectNameRemovals": [
+        "Incapiファンド",
+        "　"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "りそな銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "50円",
+      "withdrawFeeOtherBank": "220円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
