@@ -2551,6 +2551,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "fundi",
+      "officialName": "FUNDI",
+      "kana": "ふぁんでぃ",
+      "displayName": "FUNDI",
+      "aliases": [
+        "ファンディ",
+        "ファンディー"
+      ],
+      "listingPageUrls": [
+        "https://funding.fundi.co.jp/fund/list"
+      ],
+      "projectNameRemovals": [
+        " FUNDIプロジェクト",
+        " FUNDI プロジェクト"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
