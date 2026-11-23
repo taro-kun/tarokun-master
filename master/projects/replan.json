@@ -44,7 +44,7 @@
       "lotteryResultAt": "2026-06-11T00:00:00+09:00",
       "operationStartDate": "2026-06-20",
       "operationEndDate": "2027-01-19",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2027-03-18",
       "yieldRate": 8,
       "operationPeriodValue": 7,
       "operationPeriodUnit": "months",
