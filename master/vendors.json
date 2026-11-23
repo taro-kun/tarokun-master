@@ -2500,6 +2500,30 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 60,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "condo",
+      "officialName": "CONDO",
+      "kana": "こんど",
+      "displayName": "CONDO",
+      "aliases": [
+        "コンド"
+      ],
+      "listingPageUrls": [
+        "https://augen-condo.com/fund/list"
+      ],
+      "projectNameRemovals": [],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
