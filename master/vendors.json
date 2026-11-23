@@ -2468,6 +2468,38 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "cosmobank",
+      "officialName": "COSMOBANK Funding",
+      "kana": "こすもばんくふぁんでぃんぐ",
+      "displayName": "コスモ",
+      "aliases": [
+        "COSMOBANK",
+        "コスモバンクファンディング",
+        "コスモバンク",
+        "COSMO"
+      ],
+      "listingPageUrls": [
+        "https://cosmobank-funding.com/fund/list"
+      ],
+      "projectNameRemovals": [
+        "COSMOBANK Funding第",
+        "1棟アパート",
+        "【",
+        "】"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "無料",
+      "withdrawFeeOtherBank": "145円",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 60,
+      "blogArticleUrl": null
     }
   ]
 }
