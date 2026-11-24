@@ -299,7 +299,7 @@
       "lotteryResultAt": null,
       "operationStartDate": "2025-08-01",
       "operationEndDate": "2025-10-31",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2025-11-15",
       "yieldRate": 7,
       "operationPeriodValue": 3,
       "operationPeriodUnit": "months",
