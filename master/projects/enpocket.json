@@ -367,7 +367,7 @@
       "lotteryResultAt": "2023-11-07T00:00:00+09:00",
       "operationStartDate": "2023-12-01",
       "operationEndDate": "2024-11-29",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2024-12-25",
       "yieldRate": 3.8,
       "operationPeriodValue": 365,
       "operationPeriodUnit": "days",
