@@ -2850,6 +2850,34 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "verfund",
+      "officialName": "VERFUND",
+      "kana": "べるふぁんど",
+      "displayName": "VERFUND",
+      "aliases": [
+        "ベルファンド",
+        "ベルファン",
+        "ベル"
+      ],
+      "listingPageUrls": [
+        "https://verfund-invest.com/projects"
+      ],
+      "projectNameRemovals": [
+        "VERFUND"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
