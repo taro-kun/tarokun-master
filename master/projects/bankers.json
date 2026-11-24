@@ -53380,6 +53380,23 @@
       "recruitmentAmount": 100000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankersa979b705f09cd813",
+      "projectName": "マイカーローン事業支援ファンド第2-22号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-25T18:00:00+09:00",
+      "recruitmentEndAt": "2026-12-07T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-18",
+      "operationEndDate": "2027-12-17",
+      "plannedRedemptionDate": "2028-01-04",
+      "yieldRate": 5.2,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 24450000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
