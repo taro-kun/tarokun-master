@@ -483,7 +483,7 @@
       "applicationMethod": "lottery",
       "recruitmentStartAt": "2024-10-01T12:00:00+09:00",
       "recruitmentEndAt": "2024-10-20T15:00:00+09:00",
-      "lotteryResultAt": "2024-10-20T00:00:00+09:00",
+      "lotteryResultAt": "2024-10-20T16:00:00+09:00",
       "operationStartDate": "2024-11-01",
       "operationEndDate": "2025-04-30",
       "plannedRedemptionDate": null,
