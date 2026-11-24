@@ -571,7 +571,7 @@
       "lotteryResultAt": null,
       "operationStartDate": "2021-04-28",
       "operationEndDate": "2021-10-31",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2021-11-10",
       "yieldRate": 3,
       "operationPeriodValue": 187,
       "operationPeriodUnit": "days",
