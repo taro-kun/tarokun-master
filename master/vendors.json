@@ -2706,7 +2706,7 @@
       "withdrawFeeOtherBank": null,
       "marketCategory": "unlisted",
       "riskLevel": "middle",
-      "redemptionOffsetDays": 60,
+      "redemptionOffsetDays": 15,
       "blogArticleUrl": null
     },
     {
