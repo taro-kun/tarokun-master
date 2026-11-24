@@ -408,6 +408,23 @@
       "recruitmentAmount": 150000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "ninefund8675186662ce14d9",
+      "projectName": "NINE FUND Vol.24",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-25T09:00:00+09:00",
+      "recruitmentEndAt": "2026-11-27T12:00:00+09:00",
+      "lotteryResultAt": "2026-11-27T00:00:00+09:00",
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-05-31",
+      "plannedRedemptionDate": "2027-06-15",
+      "yieldRate": 7.5,
+      "operationPeriodValue": 179,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
