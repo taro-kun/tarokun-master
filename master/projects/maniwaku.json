@@ -571,7 +571,7 @@
       "lotteryResultAt": "2024-06-17T00:00:00+09:00",
       "operationStartDate": "2024-07-01",
       "operationEndDate": "2024-09-30",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2024-10-15",
       "yieldRate": 10,
       "operationPeriodValue": 3,
       "operationPeriodUnit": "months",
