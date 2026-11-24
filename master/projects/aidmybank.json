@@ -532,7 +532,7 @@
       "projectId": "aidmybank426ad8740c5c56a1",
       "projectName": "エードMYバンク20号",
       "applicationMethod": "first_come",
-      "recruitmentStartAt": null,
+      "recruitmentStartAt": "2023-12-18T12:30:00+09:00",
       "recruitmentEndAt": null,
       "lotteryResultAt": null,
       "operationStartDate": "2024-02-01",
