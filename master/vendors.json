@@ -2909,6 +2909,39 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "bden",
+      "officialName": "B-Den",
+      "kana": "びでん",
+      "displayName": "B-Den",
+      "aliases": [
+        "ビデン",
+        "美田",
+        "b den",
+        "bden"
+      ],
+      "listingPageUrls": [
+        "https://b-lot-cf.com/investmentRecruitment/list"
+      ],
+      "projectNameRemovals": [
+        "B-Den",
+        "第",
+        "　",
+        "ファンド",
+        " "
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "low",
+      "redemptionOffsetDays": 7,
+      "blogArticleUrl": null
     }
   ]
 }
