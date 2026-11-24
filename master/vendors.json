@@ -2942,6 +2942,41 @@
       "riskLevel": "low",
       "redemptionOffsetDays": 7,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "enpocket",
+      "officialName": "えんPocket",
+      "kana": "えんぽけっと",
+      "displayName": "えん",
+      "aliases": [
+        "enpocket",
+        "en pocket",
+        "en-pocket",
+        "えんfunding",
+        "えんファンディング",
+        "えん-funding",
+        "en funding"
+      ],
+      "listingPageUrls": [
+        "https://en-pocket.en-hd.jp/investmentRecruitment/list"
+      ],
+      "projectNameRemovals": [
+        "えんfunding",
+        " ",
+        "第",
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
