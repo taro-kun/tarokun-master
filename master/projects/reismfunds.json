@@ -1,4 +1,73 @@
 {
   "vendorId": "reismfunds",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "reismfundsa85996c848a8199b",
+      "projectName": "第42号 REISM-koko 久が原",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-09-01T18:00:00+09:00",
+      "recruitmentEndAt": "2026-09-14T23:59:00+09:00",
+      "lotteryResultAt": "2026-09-15T00:00:00+09:00",
+      "operationStartDate": "2026-10-01",
+      "operationEndDate": "2026-12-29",
+      "plannedRedemptionDate": "2027-01-15",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 90,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 15400000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "reismfunds1e8026093c60facd",
+      "projectName": "第41号 REISM-koko 方南町",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-04-01T09:00:00+09:00",
+      "recruitmentEndAt": "2026-04-07T23:59:00+09:00",
+      "lotteryResultAt": "2026-04-08T00:00:00+09:00",
+      "operationStartDate": "2026-04-10",
+      "operationEndDate": "2026-07-08",
+      "plannedRedemptionDate": "2026-07-22",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 90,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 15400000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "reismfundsda382b7e8ac4db86",
+      "projectName": "第39号 REISM-koko 門前仲町",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": null,
+      "recruitmentEndAt": null,
+      "lotteryResultAt": null,
+      "operationStartDate": "2025-06-01",
+      "operationEndDate": "2025-08-29",
+      "plannedRedemptionDate": "2025-09-12",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 90,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 14000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "reismfundsf9d8903a77372243",
+      "projectName": "第40号 REISM-koko 中野坂上",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": null,
+      "recruitmentEndAt": null,
+      "lotteryResultAt": null,
+      "operationStartDate": "2025-07-01",
+      "operationEndDate": "2025-09-28",
+      "plannedRedemptionDate": "2025-10-10",
+      "yieldRate": 5.0,
+      "operationPeriodValue": 90,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 18200000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    }
+  ]
 }
