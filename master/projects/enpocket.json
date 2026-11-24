@@ -44,7 +44,7 @@
       "lotteryResultAt": "2026-03-13T00:00:00+09:00",
       "operationStartDate": "2026-04-03",
       "operationEndDate": "2026-10-02",
-      "plannedRedemptionDate": null,
+      "plannedRedemptionDate": "2026-10-30",
       "yieldRate": 3.2,
       "operationPeriodValue": 183,
       "operationPeriodUnit": "days",
