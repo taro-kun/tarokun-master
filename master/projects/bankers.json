@@ -53397,6 +53397,23 @@
       "recruitmentAmount": 24450000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "bankers6e19fd49376c3a30",
+      "projectName": "有担保オートローン事業支援ファンド1-1号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-26T18:00:00+09:00",
+      "recruitmentEndAt": "2026-12-07T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-22",
+      "operationEndDate": "2027-12-22",
+      "plannedRedemptionDate": "2028-01-07",
+      "yieldRate": 5.5,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 50000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
