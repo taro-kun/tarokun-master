@@ -1440,8 +1440,8 @@
       "operationEndDate": null,
       "plannedRedemptionDate": "2020-05-15",
       "yieldRate": 4,
-      "operationPeriodValue": null,
-      "operationPeriodUnit": null,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
       "recruitmentAmount": 120000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
