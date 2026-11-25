@@ -1247,7 +1247,7 @@
       "projectName": "No.73 熊本県天草市 系統用蓄電池用地ファンド",
       "applicationMethod": "first_come",
       "recruitmentStartAt": "2026-11-20T12:00:00+09:00",
-      "recruitmentEndAt": "2026-11-24T15:00:00+09:00",
+      "recruitmentEndAt": "2026-11-24T23:59:00+09:00",
       "lotteryResultAt": null,
       "operationStartDate": "2026-11-30",
       "operationEndDate": "2027-09-28",
@@ -1256,6 +1256,23 @@
       "operationPeriodValue": 10,
       "operationPeriodUnit": "months",
       "recruitmentAmount": 517770000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "torchesbf19e094a4c7b204",
+      "projectName": "No.74 佐賀県唐津市 系統用蓄電池用地ファンド",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-25T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-29T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-10-04",
+      "plannedRedemptionDate": "2027-10-19",
+      "yieldRate": 18.0,
+      "operationPeriodValue": 10,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 516780000,
       "firstComeStartAt": null,
       "firstComeAmount": null
     }
