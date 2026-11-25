@@ -2227,6 +2227,23 @@
       "operationPeriodUnit": "months",
       "recruitmentAmount": 147000000,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "rimplec0889229dc5a1884",
+      "projectName": "Rimple's Selection #132",
+      "applicationMethod": "lottery",
+      "recruitmentStartAt": "2026-11-27T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-30T18:00:00+09:00",
+      "lotteryResultAt": "2026-12-02T00:00:00+09:00",
+      "operationStartDate": "2026-12-16",
+      "operationEndDate": "2027-06-15",
+      "plannedRedemptionDate": "2027-07-31",
+      "yieldRate": 2.7,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 35770000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
