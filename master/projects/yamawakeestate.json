@@ -5848,6 +5848,23 @@
       "recruitmentAmount": 183000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "yamawakeestate52a95d6ea151190a",
+      "projectName": "長野・上高井　系統用蓄電池用地　EXITファンド",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-25T18:00:00+09:00",
+      "recruitmentEndAt": "2026-11-30T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-09",
+      "operationEndDate": "2027-04-28",
+      "plannedRedemptionDate": "2027-05-31",
+      "yieldRate": 18.0,
+      "operationPeriodValue": 5,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 278000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
