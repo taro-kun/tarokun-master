@@ -1559,8 +1559,8 @@
       "operationEndDate": null,
       "plannedRedemptionDate": null,
       "yieldRate": 6,
-      "operationPeriodValue": null,
-      "operationPeriodUnit": null,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
       "recruitmentAmount": 200000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
