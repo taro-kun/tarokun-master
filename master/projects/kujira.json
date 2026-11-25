@@ -646,6 +646,23 @@
       "recruitmentAmount": 200000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "kujira8c7241f1be1fa0d2",
+      "projectName": "くじら39号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-25T09:00:00+09:00",
+      "recruitmentEndAt": "2026-12-20T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-25",
+      "operationEndDate": "2027-12-24",
+      "plannedRedemptionDate": null,
+      "yieldRate": 10.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 110000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
