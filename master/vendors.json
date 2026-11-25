@@ -3004,6 +3004,39 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 3,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "jlending",
+      "officialName": "J.LENDING",
+      "kana": "じぇいれんでぃんぐ",
+      "displayName": "J.LENDING",
+      "aliases": [
+        "jlending",
+        "j-lending",
+        "ジャルコ",
+        "ジェイレンディング",
+        "ジェイレン"
+      ],
+      "listingPageUrls": [
+        "https://www.sociallending.jalco.co.jp/trade/home/investments.do"
+      ],
+      "projectNameRemovals": [
+        "LF",
+        "J.LENDING",
+        "-",
+        " "
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "post",
+      "bankName": "みずほ銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "standard",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": "https://taroblog.net/20092001-jlending-detailed-description/"
     }
   ]
 }
