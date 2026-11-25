@@ -2977,6 +2977,33 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "capima",
+      "officialName": "CAPIMA",
+      "kana": "きゃぴま",
+      "displayName": "CAPIMA",
+      "aliases": [
+        "キャピマ"
+      ],
+      "listingPageUrls": [
+        "https://www.capima.jp/fund"
+      ],
+      "projectNameRemovals": [
+        "ファンド",
+        "【毎月分配】"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "pre",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 3,
+      "blogArticleUrl": null
     }
   ]
 }
