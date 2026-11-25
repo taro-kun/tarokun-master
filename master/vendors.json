@@ -3037,6 +3037,35 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/20092001-jlending-detailed-description/"
+    },
+    {
+      "vendorId": "maritimebank",
+      "officialName": "Maritime Bank",
+      "kana": "まりたいむばんく",
+      "displayName": "マリタイム",
+      "aliases": [
+        "Maritime",
+        "Maritime-Bank",
+        "マリタイムバンク",
+        "マリタイム・バンク"
+      ],
+      "listingPageUrls": [
+        "https://nmb.co.jp/fund/list/0"
+      ],
+      "projectNameRemovals": [
+        "ファンド"
+      ],
+      "vendorType": "social_lending",
+      "depositTiming": "post",
+      "bankName": "三井住友銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "tpm",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 14,
+      "blogArticleUrl": null
     }
   ]
 }
