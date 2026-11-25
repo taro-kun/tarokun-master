@@ -328,7 +328,7 @@
       "projectId": "maritimebank5c323e2df000e792",
       "projectName": "多目的船15号ファンド",
       "applicationMethod": "lottery",
-      "recruitmentStartAt": null,
+      "recruitmentStartAt": "2023-09-08T00:00:00+09:00",
       "recruitmentEndAt": null,
       "lotteryResultAt": null,
       "operationStartDate": "2023-09-22",
