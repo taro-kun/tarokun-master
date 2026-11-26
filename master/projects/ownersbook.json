@@ -7650,6 +7650,23 @@
       "recruitmentAmount": 750000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "ownersbook3196477060656464",
+      "projectName": "目黒区大岡山レジデンス用地案件",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-27T18:00:00+09:00",
+      "recruitmentEndAt": "2026-12-16T09:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-18",
+      "operationEndDate": "2028-07-18",
+      "plannedRedemptionDate": "2028-07-20",
+      "yieldRate": 5.4,
+      "operationPeriodValue": 19,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 202000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
