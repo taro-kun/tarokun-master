@@ -4781,6 +4781,23 @@
       "recruitmentAmount": 77000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "tson66a7677eaad8a3f5",
+      "projectName": "SMART FUND164号（三重県四日市市楠町Ⅰ＜3期＞）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-28T12:00:00+09:00",
+      "recruitmentEndAt": "2026-11-30T19:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-10-03",
+      "plannedRedemptionDate": "2027-11-02",
+      "yieldRate": 6.0,
+      "operationPeriodValue": 304,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 67500000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
