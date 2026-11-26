@@ -11101,6 +11101,23 @@
       "recruitmentAmount": 150000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "funds93219e8e717f70fa",
+      "projectName": "ランドビジネス ライフスタイル創造ファンド#4",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-27T19:00:00+09:00",
+      "recruitmentEndAt": "2026-12-09T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-22",
+      "operationEndDate": "2027-06-30",
+      "plannedRedemptionDate": "2027-07-07",
+      "yieldRate": 3.5,
+      "operationPeriodValue": 6,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 400000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
