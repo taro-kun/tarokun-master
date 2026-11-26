@@ -3224,6 +3224,37 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": "https://taroblog.net/23031301-lives-funding-detailed-description/"
+    },
+    {
+      "vendorId": "afunding",
+      "officialName": "A Funding",
+      "kana": "えーふぁんでぃんぐ",
+      "displayName": "A Funding",
+      "aliases": [
+        "A Fun",
+        "エーファンディング",
+        "a-funding"
+      ],
+      "listingPageUrls": [
+        "https://afunding.jp/index.php?app_controller=search&type=items&run=true"
+      ],
+      "projectNameRemovals": [
+        "A",
+        " ",
+        "funding",
+        "不動産特定共同事業"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "growth",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
