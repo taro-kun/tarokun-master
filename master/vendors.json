@@ -3125,6 +3125,38 @@
       "riskLevel": "low",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "camel",
+      "officialName": "CAMEL",
+      "kana": "きゃめる",
+      "displayName": "CAMEL",
+      "aliases": [
+        "キャメル",
+        "らくだ",
+        "ラクダ",
+        "駱駝",
+        "きゃめるん"
+      ],
+      "listingPageUrls": [
+        "https://fundcamel.com/funds/"
+      ],
+      "projectNameRemovals": [
+        "CAMEL",
+        "ファンド",
+        "プロジェクト"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "みずほ銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
