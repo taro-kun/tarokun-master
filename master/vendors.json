@@ -3157,6 +3157,37 @@
       "riskLevel": "high",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "cozuchi",
+      "officialName": "COZUCHI",
+      "kana": "こずち",
+      "displayName": "COZUCHI",
+      "aliases": [
+        "コズチ",
+        "コヅチ",
+        "こずち",
+        "こづち",
+        "小槌"
+      ],
+      "listingPageUrls": [
+        "https://cozuchi.com/system/funds/",
+        "https://cozuchi.com/system/funds/?partnerShip=1"
+      ],
+      "projectNameRemovals": [
+        "プロジェクト"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "三井住友銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "月1回：無料、2回目以降：330円/回",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
