@@ -1,4 +1,22 @@
 {
   "vendorId": "ibond",
-  "projects": []
+  "projects": [
+    {
+      "projectId": "ibond2809212e978f3dce",
+      "projectName": "i-Bond",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": null,
+      "recruitmentEndAt": null,
+      "lotteryResultAt": null,
+      "firstComeStartAt": null,
+      "operationStartDate": "0000-00-00",
+      "operationEndDate": "2999-12-31",
+      "plannedRedemptionDate": null,
+      "yieldRate": 2,
+      "operationPeriodValue": null,
+      "operationPeriodUnit": null,
+      "recruitmentAmount": null,
+      "firstComeAmount": null
+    }
+  ]
 }
