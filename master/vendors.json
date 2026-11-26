@@ -3098,6 +3098,33 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "ibond",
+      "officialName": "i-Bond",
+      "kana": "あいぼんど",
+      "displayName": "i-Bond",
+      "aliases": [
+        "アイボンド",
+        "アイボン",
+        "ibond",
+        "マリオン"
+      ],
+      "listingPageUrls": [
+        "https://www.i-bond.jp/products/"
+      ],
+      "projectNameRemovals": [],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "三井住友銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "99円",
+      "withdrawFeeOtherBank": "GMO銀行：無料、他行：99円",
+      "marketCategory": "standard",
+      "riskLevel": "low",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
