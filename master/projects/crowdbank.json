@@ -124151,6 +124151,40 @@
       "recruitmentAmount": 20000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "crowdbankccee1616f5bbf4be",
+      "projectName": "系統用蓄電池事業支援ファンド第99号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-26T17:30:00+09:00",
+      "recruitmentEndAt": "2026-12-02T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-08-06",
+      "plannedRedemptionDate": "2027-09-07",
+      "yieldRate": 7.1,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 46000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
+    },
+    {
+      "projectId": "crowdbankb0eb1c53fbf1388e",
+      "projectName": "系統用蓄電池事業支援ファンド第100号",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-26T17:30:00+09:00",
+      "recruitmentEndAt": "2026-12-02T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-04",
+      "operationEndDate": "2027-08-06",
+      "plannedRedemptionDate": "2027-09-07",
+      "yieldRate": 7.1,
+      "operationPeriodValue": 9,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 46000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
