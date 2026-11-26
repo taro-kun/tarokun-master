@@ -1275,6 +1275,23 @@
       "recruitmentAmount": 516780000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "torches8074ed0c8aca19c8",
+      "projectName": "No.75 新潟県村上市　データセンター用地ファンド",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-12-02T12:00:00+09:00",
+      "recruitmentEndAt": "2026-12-14T15:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-18",
+      "operationEndDate": "2027-12-17",
+      "plannedRedemptionDate": "2027-12-31",
+      "yieldRate": 22.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 2455380000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
