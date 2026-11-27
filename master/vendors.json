@@ -3255,6 +3255,40 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": 30,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "lifullcf",
+      "officialName": "LIFULL不動産クラウドファンディング",
+      "kana": "らいふるふどうさんくらうどふぁんでぃんぐ",
+      "displayName": "LIFULL",
+      "aliases": [
+        "LIFULLクラファン",
+        "LIFULL不動産クラウド",
+        "ライフル",
+        "ライフルクラファン",
+        "ライフル不動産クラウド",
+        "LIFULL不動産",
+        "ライフル不動産"
+      ],
+      "listingPageUrls": [
+        "https://recrowdfunding.lifull.jp/fund/"
+      ],
+      "projectNameRemovals": [
+        "なで",
+        "ファンド",
+        "　ヘルスケア"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "pre",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "prime",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
