@@ -3289,6 +3289,40 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "moneyfarm",
+      "officialName": "Money Farm",
+      "kana": "まねーふぁーむ",
+      "displayName": "マネファ",
+      "aliases": [
+        "moneyfarm",
+        "money-farm",
+        "マネーファーム"
+      ],
+      "listingPageUrls": [
+        "https://moneyfarm.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "ファームチケット",
+        "事業",
+        "拡大",
+        "支援",
+        "【小口分散債権】",
+        "グループパートナーズ",
+        "開発"
+      ],
+      "vendorType": "other",
+      "depositTiming": "post",
+      "bankName": "不明",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
