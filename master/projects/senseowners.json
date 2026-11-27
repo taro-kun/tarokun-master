@@ -102,6 +102,23 @@
       "recruitmentAmount": 100000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "senseownersf3205c9c6ac06e3d",
+      "projectName": "No.07 大阪市住吉区我孫子一丁目PJ",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-12-04T18:00:00+09:00",
+      "recruitmentEndAt": "2026-12-08T18:00:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-15",
+      "operationEndDate": "2027-09-15",
+      "plannedRedemptionDate": "2027-10-06",
+      "yieldRate": 15.0,
+      "operationPeriodValue": 275,
+      "operationPeriodUnit": "days",
+      "recruitmentAmount": 130000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
