@@ -3402,6 +3402,32 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "zolome",
+      "officialName": "ZOLOME",
+      "kana": "ぞろめ",
+      "displayName": "ZOLOME",
+      "aliases": [
+        "ゾロメ"
+      ],
+      "listingPageUrls": [
+        "https://zolome.com/product/list"
+      ],
+      "projectNameRemovals": [
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "GMOあおぞらネット銀行",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "high",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
