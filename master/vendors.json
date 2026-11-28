@@ -2090,9 +2090,7 @@
         "不動産バンク",
         "バンク"
       ],
-      "listingPageUrls": [
-        "https://fudousan-bank.com/investment/fund_list.html"
-      ],
+      "listingPageUrls": [],
       "projectNameRemovals": [],
       "vendorType": "real_estate_crowdfunding",
       "depositTiming": "post",
