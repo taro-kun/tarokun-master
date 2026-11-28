@@ -3307,6 +3307,36 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "hellorenovation",
+      "officialName": "ハロー! RENOVATION",
+      "kana": "はろーりのべーしょん",
+      "displayName": "ハロリノ",
+      "aliases": [
+        "ハロー",
+        "hello-renovation",
+        "hello renovation",
+        "ハローリノベーション",
+        "ハロー!リノベーション"
+      ],
+      "listingPageUrls": [
+        "https://hello-renovation.jp/projects"
+      ],
+      "projectNameRemovals": [
+        "ファンド"
+      ],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "不明",
+      "hasDepositAccount": "no",
+      "withdrawFeeType": "paid",
+      "withdrawFeeSameBank": "不明",
+      "withdrawFeeOtherBank": "不明",
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": 30,
+      "blogArticleUrl": null
     }
   ]
 }
