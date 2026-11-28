@@ -1500,9 +1500,7 @@
       "aliases": [
         "tsukuru"
       ],
-      "listingPageUrls": [
-        "https://tsukuru-tateru.com/projects"
-      ],
+      "listingPageUrls": [],
       "projectNameRemovals": [],
       "vendorType": "real_estate_crowdfunding",
       "depositTiming": "post",
