@@ -3385,7 +3385,12 @@
       "listingPageUrls": [
         "https://stellavia.co.jp/fundlist"
       ],
-      "projectNameRemovals": [],
+      "projectNameRemovals": [
+        "Stella Asset_Fund",
+        "「",
+        "」",
+        "商品"
+      ],
       "vendorType": "real_estate_crowdfunding",
       "depositTiming": "post",
       "bankName": "不明",
