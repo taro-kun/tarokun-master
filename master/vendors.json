@@ -1589,9 +1589,7 @@
         "My Shop",
         "MyShop"
       ],
-      "listingPageUrls": [
-        "https://my-shop-fund.jp/projects"
-      ],
+      "listingPageUrls": [],
       "projectNameRemovals": [],
       "vendorType": "real_estate_crowdfunding",
       "depositTiming": "post",
