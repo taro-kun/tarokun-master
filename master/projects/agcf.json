@@ -5066,6 +5066,23 @@
       "recruitmentAmount": 60000000,
       "firstComeStartAt": null,
       "firstComeAmount": null
+    },
+    {
+      "projectId": "agcf1e1377082eac4d94",
+      "projectName": "不動産担保ローンファンド#235（土地建物@学芸大学）",
+      "applicationMethod": "first_come",
+      "recruitmentStartAt": "2026-11-30T12:00:00+09:00",
+      "recruitmentEndAt": "2026-12-09T23:59:00+09:00",
+      "lotteryResultAt": null,
+      "operationStartDate": "2026-12-21",
+      "operationEndDate": "2027-12-20",
+      "plannedRedemptionDate": null,
+      "yieldRate": 8.0,
+      "operationPeriodValue": 12,
+      "operationPeriodUnit": "months",
+      "recruitmentAmount": 300000000,
+      "firstComeStartAt": null,
+      "firstComeAmount": null
     }
   ]
 }
