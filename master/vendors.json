@@ -3370,6 +3370,33 @@
       "riskLevel": "middle",
       "redemptionOffsetDays": null,
       "blogArticleUrl": null
+    },
+    {
+      "vendorId": "stellavia",
+      "officialName": "StellaVia",
+      "kana": "すてらびぃあ",
+      "displayName": "StellaVia",
+      "aliases": [
+        "ステラヴィア",
+        "Stella Via",
+        "繁星優選",
+        "ステラビア"
+      ],
+      "listingPageUrls": [
+        "https://stellavia.co.jp/fundlist"
+      ],
+      "projectNameRemovals": [],
+      "vendorType": "real_estate_crowdfunding",
+      "depositTiming": "post",
+      "bankName": "不明",
+      "hasDepositAccount": "yes",
+      "withdrawFeeType": "free",
+      "withdrawFeeSameBank": null,
+      "withdrawFeeOtherBank": null,
+      "marketCategory": "unlisted",
+      "riskLevel": "middle",
+      "redemptionOffsetDays": null,
+      "blogArticleUrl": null
     }
   ]
 }
